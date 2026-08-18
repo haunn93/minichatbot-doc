@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+articles/
+sync.log
+node_modules/
+server.log
+docs/DESIGN.md
+docs/PLAN.md
+docs/api-notes.md
+docs/sample-articles/
+docs/demo-script.md

@@ -1,0 +1,19 @@
+{
+  "name": "minichatbot-doc",
+  "version": "1.0.0",
+  "description": "Scrape a Zendesk help center to Markdown and sync a Gemini File Search vector store.",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "ask": "node ask.js",
+    "serve": "node server.js",
+    "test": "node --test",
+    "store": "node store.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^2.17.1",
+    "turndown": "^7.2.4"
+  }
+}

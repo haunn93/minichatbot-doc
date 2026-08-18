@@ -1,0 +1,13 @@
+node_modules
+.venv
+__pycache__
+.git
+articles
+*.pyc
+.env
+sync.log
+docs
+tests
+server.js
+public
+server.log
