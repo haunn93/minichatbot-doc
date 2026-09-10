@@ -402,10 +402,10 @@
     "title": "How to add a QR Code in designs using OptiSigns’ Designer"
   },
   "24338756617747": {
-    "hash": "b0751211c9a3c8e1d5dd4eced9983a9d98eb467018a061411045bbd751001276",
-    "slug": "what-are-feeds-and-how-to-use-it-24338756617747",
-    "url": "https://support.optisigns.com/hc/en-us/articles/24338756617747-What-Are-Feeds-and-How-to-Use-It",
-    "title": "What Are Feeds and How to Use It"
+    "hash": "5ead81b1ddceef856fa25521e1f977d98fa8a6871b435efdd2dfdb7e4e557006",
+    "slug": "feeds-and-how-to-use-them-24338756617747",
+    "url": "https://support.optisigns.com/hc/en-us/articles/24338756617747-Feeds-and-How-to-Use-Them",
+    "title": "Feeds and How to Use Them"
   },
   "23629657318547": {
     "hash": "64b3e8580da413ff241ecb3fdab1caa8c91c8dbcd52437c757255978c85fb3b2",
@@ -480,7 +480,7 @@
     "title": "Navigating Through OptiSigns' Template Library"
   },
   "20153471319187": {
-    "hash": "213dcb3884d868e3b5860d6188aeac16bf46ecfe0407b6b967d0470e5cf46cca",
+    "hash": "b2f4f9424886702b96b9c95b91d9444cca0cfaf7b602deb389abd7b6296532fc",
     "slug": "external-storage-on-optisigns-devices-20153471319187",
     "url": "https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices",
     "title": "External Storage on OptiSigns Devices"
@@ -642,7 +642,7 @@
     "title": "How to hide certain templates categories in Designers"
   },
   "7592123111699": {
-    "hash": "65e573f4f7c7884266d767d8f45e063bf8e177d0f64ce41f9ea8bcaef177b22e",
+    "hash": "7908530ba790f17c3d87ea0e879d4b6315921ceec66a3b12ff5cc5f10fee9ec2",
     "slug": "host-your-html-js-or-create-your-own-web-app-with-hosted-web-7592123111699",
     "url": "https://support.optisigns.com/hc/en-us/articles/7592123111699-Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website",
     "title": "Host your HTML/JS or Create your own Web App with Hosted Website"
@@ -762,7 +762,7 @@
     "title": "How to \"unpin\" OptiSigns app on your Managed Android Stick Player"
   },
   "4404616139411": {
-    "hash": "a5974ebe5e9df9a9acdf9a6f7ef3db11c9a0ca0d21954957b0614d08af9e9d23",
+    "hash": "db8fb17eaa1600363d962704a604bf8310b36dc407d579277a4e8e89c446c423",
     "slug": "add-1-or-multiple-assets-to-many-playlists-at-the-same-time-4404616139411",
     "url": "https://support.optisigns.com/hc/en-us/articles/4404616139411-Add-1-or-multiple-assets-to-many-playlists-at-the-same-time",
     "title": "Add 1 or multiple assets to many playlists at the same time"
@@ -1145,12 +1145,6 @@
     "url": "https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login",
     "title": "How to display content inside websites that require login?"
   },
-  "360036465673": {
-    "hash": "9dbdcc5cc4e6aec7443a851abedc04026e7d7f543207bcd2d2bdfa67dd7dc92c",
-    "slug": "adjusting-social-news-wall-speeds-360036465673",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360036465673-Adjusting-social-news-wall-speeds",
-    "title": "Adjusting social, news wall speeds"
-  },
   "360035538093": {
     "hash": "c1db137ee2e8fa1710d9538f62e42c892a535189d0b85175d622a099ab55fc67",
     "slug": "my-image-content-are-bleeding-off-the-screens-with-fire-tv-n-360035538093",
@@ -1212,7 +1206,7 @@
     "title": "How to start OptiSigns automatically when devices boot up"
   },
   "360020931734": {
-    "hash": "ba21a4619c9ad158015de12bc4a33c17b841c1ff20615154d9826b2b6932d8f1",
+    "hash": "f54c9900ae35d32bae0268a836f7105b73ccd3c23f6165e6b0d60698cfbe2324",
     "slug": "can-i-disable-the-download-button-for-assets-360020931734",
     "url": "https://support.optisigns.com/hc/en-us/articles/360020931734-Can-I-Disable-the-Download-Button-for-Assets",
     "title": "Can I Disable the Download Button for Assets?"
@@ -1296,10 +1290,10 @@
     "title": "How to get the list of playlists where the asset is used"
   },
   "4414563797139": {
-    "hash": "289e5aa4b4289b63d976dbb748a93979234f12ced6ee0cdc969ff03c55c5ff53",
-    "slug": "generate-manage-optisigns-api-key-4414563797139",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-OptiSigns-API-Key",
-    "title": "Generate & Manage OptiSigns API Key"
+    "hash": "8b9798d3d90434d13f7207e03cf7ccf16e9a5eaa6d12e3610d725ae17690f256",
+    "slug": "generate-manage-an-optisigns-api-key-4414563797139",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-an-OptiSigns-API-Key",
+    "title": "Generate & Manage an OptiSigns API Key"
   },
   "360054557434": {
     "hash": "58090c15c0852eb78e2fa349489f9208964f64133c9e728a46be23feb97a0588",
@@ -1512,7 +1506,7 @@
     "title": "How to tell which Dropbox account that I linked to OptiSigns?"
   },
   "360017964153": {
-    "hash": "83c03cd634c21959f5ca0d905489119b8b63d2d9fc4630b80b119c9110cdf8c7",
+    "hash": "3a060951c9deec77211d8dbd5e86b81f1bceec73d933fbbdbc05853f084d91fc",
     "slug": "how-to-use-weather-apps-in-optisigns-360017964153",
     "url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
     "title": "How to Use Weather Apps in OptiSigns"
@@ -2022,10 +2016,10 @@
     "title": "How to use MRSS feeds with OptiSigns"
   },
   "4408052949139": {
-    "hash": "7deb15d46f8c2c4ae2970e87af7df68f0deb0839357ed557383f9bbcba96bbf0",
-    "slug": "how-to-use-calendar-mix-app-4408052949139",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-use-Calendar-Mix-app",
-    "title": "How to use Calendar Mix app"
+    "hash": "d3343df28a1f25ed70101327fa7fd5718ddaf9edcc28f9e883e4388f0b66e45c",
+    "slug": "how-to-use-the-calendar-mix-app-4408052949139",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-Use-the-Calendar-Mix-app",
+    "title": "How to Use the Calendar Mix app"
   },
   "4407335862931": {
     "hash": "de8eb67b5651f26b5678c134df34eb5e2cca791c91f00ad4fa8cc02725f64a4f",
@@ -2058,7 +2052,7 @@
     "title": "How to use the Social Mix App"
   },
   "1500011611322": {
-    "hash": "4dcf8efa2586e34128a8c12102d9ff87b59d42ff51b3106e7f881eed26c2d4b9",
+    "hash": "097f6d568a8510231369eb8500e2c74ef943b73bf79d1786f7ce867de14e7481",
     "slug": "how-to-use-the-cbc-news-app-1500011611322",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500011611322-How-to-use-the-CBC-News-App",
     "title": "How to use the CBC News App"
@@ -2208,7 +2202,7 @@
     "title": "How to use Follow Us App"
   },
   "360049872414": {
-    "hash": "38172fcdc9609113abc2989663dedd523d990aad8cc13886969e7d8fc24d2484",
+    "hash": "cae9d695cef08499b9e24b3d25d96d1c197e8d50250ddfcd0e1c433a0dd49159",
     "slug": "how-to-use-facebook-video-app-360049872414",
     "url": "https://support.optisigns.com/hc/en-us/articles/360049872414-How-to-use-Facebook-Video-App",
     "title": "How to use Facebook Video App"
@@ -2262,7 +2256,7 @@
     "title": "How to use Google Drive App"
   },
   "360049030453": {
-    "hash": "9b6801029c4f214e15d8ee3eff5faee2ba336b9739d56c8e3a770bbbfb338a89",
+    "hash": "770e1def1d1ad511f3c94bd2b0627c1d3b3a8b2dfa939782699afd58999de613",
     "slug": "how-to-use-the-motivational-quote-app-360049030453",
     "url": "https://support.optisigns.com/hc/en-us/articles/360049030453-How-to-use-the-Motivational-Quote-App",
     "title": "How to use the Motivational Quote App"
@@ -2292,10 +2286,10 @@
     "title": "How to use Twitch App"
   },
   "360044619014": {
-    "hash": "83cd2adb3a8f970c642357c36c9108b4fa5ac681b641a040b43ac51e0a51e706",
+    "hash": "93c2e8715e5d4fa23f9a1785ed0f93200d8f613375a5608a2cb520c49a127268",
     "slug": "how-to-use-the-facebook-counter-app-360044619014",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-use-the-Facebook-Counter-App",
-    "title": "How to use the Facebook Counter App"
+    "url": "https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-Use-the-Facebook-Counter-App",
+    "title": "How to Use the Facebook Counter App"
   },
   "360045121233": {
     "hash": "04ca26bed85430a81e290d4c361b627918ec2e7e17f51546e53cb57938945718",
@@ -2304,19 +2298,19 @@
     "title": "How to use the New York Times app"
   },
   "360044613874": {
-    "hash": "d065b73ffff6aaff8a03185e49fddb62f869153816b506b1baf74f0cbff2a2b0",
-    "slug": "how-to-use-the-guardian-app-360044613874",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360044613874-How-to-use-the-Guardian-App",
-    "title": "How to use the Guardian App"
+    "hash": "293c6df812587b2c2613e58963dc60e791ed696e6a78946294f53b4ee2c6ea1e",
+    "slug": "how-to-use-the-guardian-news-app-360044613874",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360044613874-How-to-Use-the-Guardian-News-App",
+    "title": "How to Use the Guardian News App"
   },
   "360045120133": {
-    "hash": "73c5a3f1ca79f5da12ea552ae8f989efb7e7b1b08aa128e1e5772359369c26f7",
+    "hash": "6f7fa85ec4159022c90ee9979d03c505328b404ae5b34f1e93ef127c6233d421",
     "slug": "how-to-use-the-wall-street-journal-app-360045120133",
     "url": "https://support.optisigns.com/hc/en-us/articles/360045120133-How-to-use-the-Wall-Street-Journal-App",
     "title": "How to use the Wall Street Journal App"
   },
   "360044115513": {
-    "hash": "680dbd72043d49890d4ef69c013e89b4a5ebf00a19ac69c052ddb2862ca120fc",
+    "hash": "407616e3ffb438abbab5bcabe0c023023c99bd2a7dcb34fcf4e10667991c9054",
     "slug": "how-to-use-the-stock-app-360044115513",
     "url": "https://support.optisigns.com/hc/en-us/articles/360044115513-How-to-Use-the-Stock-App",
     "title": "How to Use the Stock App"
@@ -2352,22 +2346,22 @@
     "title": "How to Use the Simple Calendar App"
   },
   "360040991534": {
-    "hash": "685040fda28091ec049afa7b48f022c2dda4a458638ae32ab063b38dd2b03491",
+    "hash": "4b7316d12d1534f5292f49d2c4197074af1ef9f72559511393fe925db8608814",
     "slug": "how-to-use-the-techcrunch-news-app-360040991534",
     "url": "https://support.optisigns.com/hc/en-us/articles/360040991534-How-to-use-the-TechCrunch-News-App",
     "title": "How to use the TechCrunch News App"
   },
   "360040991474": {
-    "hash": "562aa4622681fa08c6372d384a781c217362f3ad8a73566ae395e81c21fc0b3e",
+    "hash": "1d438fdff1ef39c06ef9913c4996e739378c3c35c2d8606fd0510b3135ab19c2",
     "slug": "how-to-use-the-espn-news-app-360040991474",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-use-the-ESPN-News-App",
-    "title": "How to use the ESPN News App"
+    "url": "https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-Use-the-ESPN-News-App",
+    "title": "How to Use the ESPN News App"
   },
   "360041476213": {
-    "hash": "1869ec688391a3a99138450b4ad3df696f4a94c13953babfe2976c2df6a623c4",
-    "slug": "how-to-use-the-cnn-news-app-360041476213",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-News-App",
-    "title": "How to use the CNN News App"
+    "hash": "ac63612718afbdce58d1da573430f48fecf054b7e7548a9953fcd3e60678197b",
+    "slug": "how-to-use-the-cnn-wall-app-360041476213",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-Wall-App",
+    "title": "How to use the CNN Wall App"
   },
   "360039264133": {
     "hash": "2856df2aeb254ea1457943e95e59586879907cd086a506c8cdeaa6051e86076e",
@@ -2412,7 +2406,7 @@
     "title": "How to Display Microsoft Power BI Dashboards & Reports with OptiSigns"
   },
   "360023848334": {
-    "hash": "616af0823bdce5f4958d48b698cbf60d6b788c1ccdc52c95aba1fbfffd32395a",
+    "hash": "8f141f43799d272510d0f9205c83b0dec00fc9b2b3786b5ade833e52b6ab61f5",
     "slug": "how-to-use-the-facebook-page-app-360023848334",
     "url": "https://support.optisigns.com/hc/en-us/articles/360023848334-How-to-Use-the-Facebook-Page-App",
     "title": "How to Use the Facebook Page App"
@@ -2424,10 +2418,10 @@
     "title": "How to use published Google Slides with OptiSigns (old way)"
   },
   "360022393473": {
-    "hash": "c98e76bd39c58c56650d7cfa3e0406705af1d4cd9760a32222e98ec867ab4029",
+    "hash": "6223b53a9d5dbc74181e60bbedd11841f5e7c178614762141868b9fa45294003",
     "slug": "how-to-use-the-news-app-360022393473",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360022393473-How-to-use-the-News-App",
-    "title": "How to use the News App"
+    "url": "https://support.optisigns.com/hc/en-us/articles/360022393473-How-to-Use-the-News-App",
+    "title": "How to Use the News App"
   },
   "360019517953": {
     "hash": "e2695724af51723724813e8d0301f93c74c46081446a3855d65025ed30b3ff41",
