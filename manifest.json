@@ -354,10 +354,10 @@
     "title": "How to Use QR Overlay App in Engage"
   },
   "28115946505107": {
-    "hash": "62facc61d97a7a56f622335e11b344cebb98377b23ed681462e300050288b96a",
-    "slug": "how-to-change-close-nav-bar-styler-preferences-28115946505107",
-    "url": "https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Close-Nav-Bar-Styler-Preferences",
-    "title": "How to Change Close & Nav Bar Styler Preferences"
+    "hash": "31bbc7178b67ec9bb13b7151f52b3ddb2187c33eea4e1f0fe80352ae99bf6860",
+    "slug": "how-to-change-engage-kiosk-style-preferences-28115946505107",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Engage-Kiosk-Style-Preferences",
+    "title": "How to Change Engage/Kiosk Style Preferences"
   },
   "27690296225555": {
     "hash": "fb7b9f341d42c34c1d8ad8d7566eb949b4a6449284b9f096d807528920d2d6b8",
@@ -396,7 +396,7 @@
     "title": "How to Lockdown iPad/Single App with Guided Accessibility"
   },
   "25127398699667": {
-    "hash": "93b16ff2c4aadfc58ca8787b0a7bfea4a9647a3f38af68cb36f4ba5c59f87c6a",
+    "hash": "92617e776ff2f60b1a993293e9300492b6bd6a3f66cf4551127d497acb517bd2",
     "slug": "how-to-add-a-qr-code-in-designs-using-optisigns-designer-25127398699667",
     "url": "https://support.optisigns.com/hc/en-us/articles/25127398699667-How-to-add-a-QR-Code-in-designs-using-OptiSigns-Designer",
     "title": "How to add a QR Code in designs using OptiSigns’ Designer"
@@ -647,12 +647,6 @@
     "url": "https://support.optisigns.com/hc/en-us/articles/7592123111699-Host-your-HTML-JS-or-Create-your-own-Web-App-with-Hosted-Website",
     "title": "Host your HTML/JS or Create your own Web App with Hosted Website"
   },
-  "7589195635219": {
-    "hash": "7cec910ebf402993a3f163bc91b282c3afb58e32fa97cf1c9ee46f36c4bd3ce9",
-    "slug": "using-eyedrop-feature-to-select-color-in-designer-app-7589195635219",
-    "url": "https://support.optisigns.com/hc/en-us/articles/7589195635219-Using-eyedrop-feature-to-select-color-in-Designer-app",
-    "title": "Using eyedrop feature to select color in Designer app"
-  },
   "6605515731603": {
     "hash": "33e60414129ffded962c16159a649627b950a035ce9eadc0d12e2579708cc907",
     "slug": "apple-tv-player-release-notes-limitations-6605515731603",
@@ -834,7 +828,7 @@
     "title": "How to Use the Live TV with Ads App"
   },
   "1500006056101": {
-    "hash": "726e941ee8eb4c79b45b1393737ce67ba408679cd127d69896b91f48d405ecec",
+    "hash": "ad59e359bdaf00f2a30ddf2754b1c7bca11b099e8b64ce489d12e23a3358f257",
     "slug": "multi-select-assets-in-files-assets-view-1500006056101",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500006056101-Multi-select-assets-in-Files-Assets-view",
     "title": "Multi-select assets in Files/Assets view"
@@ -906,7 +900,7 @@
     "title": "Advanced: Custom Domain Mapping"
   },
   "360060676993": {
-    "hash": "a34c961cc9e0e3d229622fb6f5c17f8f4bf54e5e4ed2933bf59ee137c9c169d3",
+    "hash": "9b800b631786cf83501f262878d7733709ce0f2a3bad32b4c5e5c666f23152ad",
     "slug": "how-to-manually-install-activate-optisigns-ai-add-on-on-linu-360060676993",
     "url": "https://support.optisigns.com/hc/en-us/articles/360060676993-How-to-manually-install-activate-OptiSigns-AI-Add-on-on-Linux-or-Raspberry-Pi",
     "title": "How to manually install & activate OptiSigns AI Add-on on Linux or Raspberry Pi"
@@ -1032,10 +1026,10 @@
     "title": "Difference between Instagram & Instagram Business App"
   },
   "360050602413": {
-    "hash": "0301dc95f8fe174166e29ed421bf32451a63a1c64051d33cf018f252b8031b9a",
+    "hash": "948b34c50c7202ecf50007099aa91a6a53581121aa1a250e69667dc34a61bb20",
     "slug": "how-to-use-overlay-layers-with-optisigns-360050602413",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360050602413-How-to-use-Overlay-layers-with-OptiSigns",
-    "title": "How to use Overlay layers with OptiSigns"
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050602413-How-to-Use-Overlay-layers-with-OptiSigns",
+    "title": "How to Use Overlay layers with OptiSigns"
   },
   "360048914673": {
     "hash": "1b056aa7d19c9725d98bee3ee4c1a54f13d12c8fe7b474ab5deec5d4c5d343ef",
@@ -1074,7 +1068,7 @@
     "title": "Folder Level Permissions"
   },
   "360043670633": {
-    "hash": "143d9f8408e884d21814d0b912b733d10140bef63409bf76011b9437f1a805a9",
+    "hash": "c9449a3c06ba8fb1bd8da670f74b0909b80f4a47733688a3cd843f327ce9fb4b",
     "slug": "organizing-your-files-assets-playlists-and-schedules-by-usin-360043670633",
     "url": "https://support.optisigns.com/hc/en-us/articles/360043670633-Organizing-your-files-assets-playlists-and-schedules-by-using-Folders",
     "title": "Organizing your files, assets, playlists and schedules by using Folders"
@@ -1548,7 +1542,7 @@
     "title": "Present/ share iOS/ Android phone/ tablet to your screen with OptiSigns & AeriCast Add-on"
   },
   "4414558295955": {
-    "hash": "fbc37df117224afa4ab30e2a90d7ae50fc9aba220393fc9889edac4e95d490af",
+    "hash": "c05fc04fda2947e730d607719f4ccc16b58b418467b48b90b7b9008ec3cc3e32",
     "slug": "tutorial-create-update-add-remove-items-from-playlists-4414558295955",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414558295955-Tutorial-Create-Update-Add-Remove-items-from-Playlists",
     "title": "Tutorial: Create, Update, Add, Remove items from Playlists"
@@ -1728,7 +1722,7 @@
     "title": "Pagination"
   },
   "1500009498782": {
-    "hash": "273829923a98a811ce2a8f734236deb68786971f888784d27bfb97caf5644bf8",
+    "hash": "733759f492029695342d3e9f5bb1cf1d8bcb390a8fca075b595d89725bead139",
     "slug": "how-to-replace-update-an-existing-asset-image-video-document-1500009498782",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500009498782-How-to-replace-update-an-existing-asset-image-video-documents",
     "title": "How to replace/update an existing asset (image, video, documents)"
@@ -2154,7 +2148,7 @@
     "title": "How to use Kiosk Lite (formerly known as Interactive Kiosk app)"
   },
   "360052827713": {
-    "hash": "04fddc4592c04a179303b34c53542930f36718950d7711692533be5d85e1b564",
+    "hash": "9b102a4a3f2a83864999cd0c8e32fd45f4325f83cb75fa97261e94787cd23dc5",
     "slug": "how-to-use-the-flash-message-app-360052827713",
     "url": "https://support.optisigns.com/hc/en-us/articles/360052827713-How-to-Use-the-Flash-Message-App",
     "title": "How to Use the Flash Message App"
@@ -2292,10 +2286,10 @@
     "title": "How to Use the Facebook Counter App"
   },
   "360045121233": {
-    "hash": "04ca26bed85430a81e290d4c361b627918ec2e7e17f51546e53cb57938945718",
+    "hash": "f574369368ebae9c4b91d4bd4845a04a7d5ec91153b4126e568cc9a61b64dd7e",
     "slug": "how-to-use-the-new-york-times-app-360045121233",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360045121233-How-to-use-the-New-York-Times-app",
-    "title": "How to use the New York Times app"
+    "url": "https://support.optisigns.com/hc/en-us/articles/360045121233-How-to-Use-the-New-York-Times-app",
+    "title": "How to Use the New York Times app"
   },
   "360044613874": {
     "hash": "293c6df812587b2c2613e58963dc60e791ed696e6a78946294f53b4ee2c6ea1e",
@@ -2306,8 +2300,8 @@
   "360045120133": {
     "hash": "6f7fa85ec4159022c90ee9979d03c505328b404ae5b34f1e93ef127c6233d421",
     "slug": "how-to-use-the-wall-street-journal-app-360045120133",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360045120133-How-to-use-the-Wall-Street-Journal-App",
-    "title": "How to use the Wall Street Journal App"
+    "url": "https://support.optisigns.com/hc/en-us/articles/360045120133-How-to-Use-the-Wall-Street-Journal-App",
+    "title": "How to Use the Wall Street Journal App"
   },
   "360044115513": {
     "hash": "407616e3ffb438abbab5bcabe0c023023c99bd2a7dcb34fcf4e10667991c9054",
@@ -2388,10 +2382,10 @@
     "title": "How to Use Microsoft Outlook Calendar with OptiSigns"
   },
   "360037965133": {
-    "hash": "4ae3f1014d276b5c6db304796e126ddd41f9c20f2cc1afb05fe4cbfcca8d9f95",
+    "hash": "01ba7df3c08c7d18e398febcf269f51dc65d4f7e2c628a129386cdf9d0556d09",
     "slug": "how-to-use-rss-feeds-with-optisigns-360037965133",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360037965133-How-to-use-RSS-feeds-with-OptiSigns",
-    "title": "How to use RSS feeds with OptiSigns"
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037965133-How-to-Use-RSS-feeds-with-OptiSigns",
+    "title": "How to Use RSS feeds with OptiSigns"
   },
   "360035815114": {
     "hash": "6ac2d87f0925da63de2cfbc6da353681a1ce55a8973aaaf132537d65cad74d04",
