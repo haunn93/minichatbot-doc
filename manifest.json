@@ -318,7 +318,7 @@
     "title": "How to Set Up Dynamic Data Mapping with OptiSync"
   },
   "28598173096723": {
-    "hash": "91a24aac1974d0a02c398429f5f5c8fd1ad061548ca7c198b294acf926a440ae",
+    "hash": "44ab25a5624bd27195e4c304ed8c02853fa537bf064c22359b1df7f4c365f34e",
     "slug": "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232-28598173096723",
     "url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232",
     "title": "How To Create and Use Operational Schedules (HDMI-CEC, RS-232)"
@@ -432,7 +432,7 @@
     "title": "How to enable auto-start on FireOS 8 devices like Amazon Fire TV Stick 4K Gen 2 (2023 model)"
   },
   "23030445716883": {
-    "hash": "e3ecf04e820da388ef8ff759d762884277a49cb5950d77f578073f87b6d02d07",
+    "hash": "e4ed128175ed7757a638f351b1a242dea365e31522108030787587f2ce1e8815",
     "slug": "how-to-setup-aericast-meet-wireless-video-conferencing-23030445716883",
     "url": "https://support.optisigns.com/hc/en-us/articles/23030445716883-How-to-setup-AeriCast-Meet-Wireless-Video-Conferencing",
     "title": "How to setup AeriCast Meet (Wireless Video Conferencing)"
@@ -450,13 +450,13 @@
     "title": "Advanced Playlist Item Playback Control & Campaign Management"
   },
   "21708242980755": {
-    "hash": "2d1870fa90fa5c62237d3ec2bd74064ff79ead6f4cf6fcf23a5a9b1428b27152",
-    "slug": "how-to-share-playlist-and-folder-with-external-users-21708242980755",
-    "url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users",
-    "title": "How to Share Playlist and Folder with External Users"
+    "hash": "12338a2504bc58aba6afc6bc748b1ca2439fa7e570c5bd30c86aba44d659fcd3",
+    "slug": "sharing-playlists-and-folders-with-external-users-21708242980755",
+    "url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-Sharing-Playlists-and-Folders-with-External-Users",
+    "title": "Sharing Playlists and Folders with External Users"
   },
   "20879903340947": {
-    "hash": "1f6574d9666af7fba357d85462a79aadf8a751c157323d625ba86d25c201c2a7",
+    "hash": "e0f6f13503548ce44c47db2ec56c83f8efb01397ff1ed240ee4a3097f20b74c5",
     "slug": "how-to-use-content-tags-in-the-playlist-20879903340947",
     "url": "https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist",
     "title": "How to Use Content Tags in The Playlist"
@@ -2094,7 +2094,7 @@
     "title": "How to use HDMI & other video input sources in with OptiSigns"
   },
   "1500001985341": {
-    "hash": "ab0197fa5db1f435e623c98985574dc56133d7c7b6d8ca77715dfc81e63efcd3",
+    "hash": "adf94d096f7368d89751ce88ce417494820e20407c1ba078bef01892d8c1dbc3",
     "slug": "how-to-use-the-local-folder-app-in-optisigns-1500001985341",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500001985341-How-to-Use-the-Local-Folder-App-in-OptiSigns",
     "title": "How to Use the Local Folder App in OptiSigns"
@@ -2130,7 +2130,7 @@
     "title": "How to use Google Sheets with OptiSigns"
   },
   "360056356414": {
-    "hash": "6221d5fbf61f0d5d977dceb672e11b5ffa8a1a5b490785b7462cc925922d844b",
+    "hash": "0f0d724ff5018e5f8d3d79284355c4d918a4245d3ec80e1a9a18ea0dc360b40c",
     "slug": "how-to-use-scrolling-website-app-360056356414",
     "url": "https://support.optisigns.com/hc/en-us/articles/360056356414-How-to-use-Scrolling-Website-App",
     "title": "How to use Scrolling Website App"
