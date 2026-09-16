@@ -1,4 +1,22 @@
 {
+  "55450681344915": {
+    "hash": "fbc8d665626f67c2a5d0bcc9d769fbcc2370fbc059a4b0d448e8811d52631001",
+    "slug": "connect-sharepoint-news-to-optisigns-digital-signage-55450681344915",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage",
+    "title": "Connect SharePoint News to OptiSigns Digital Signage"
+  },
+  "55416186918163": {
+    "hash": "a2978f17dd5adb3fd01e092fe28cc9ecbab72e39690931750df8c0f37218f566",
+    "slug": "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broad-55416186918163",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast",
+    "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast"
+  },
+  "55416185869331": {
+    "hash": "25865c4e7f5fc7c123e21c271cd28f2fd220660b14dd8ca3e851e0387e290fff",
+    "slug": "broadcast-send-scheduled-snapshots-of-your-dashboards-55416185869331",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
+    "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards"
+  },
   "54095075680275": {
     "hash": "0813a3374b05559e451941a9027fe9600c7924b5df9ba1032bdd2e73bdb93ee4",
     "slug": "optidev-add-on-free-trial-and-pricing-54095075680275",
@@ -2124,7 +2142,7 @@
     "title": "How to use Google Docs with OptiSigns"
   },
   "360056977214": {
-    "hash": "b1a562143cd90264de8d6f9cd546d1b6b6b9b47b16ab14ed3adcd75f304d33b0",
+    "hash": "80df1162fe7f6d61d1d6cf2e30e3d431aeb81b3414d1c034e6df6e89373e1adf",
     "slug": "how-to-use-google-sheets-with-optisigns-360056977214",
     "url": "https://support.optisigns.com/hc/en-us/articles/360056977214-How-to-use-Google-Sheets-with-OptiSigns",
     "title": "How to use Google Sheets with OptiSigns"
@@ -2214,7 +2232,7 @@
     "title": "How to use the OneDrive App"
   },
   "360050664913": {
-    "hash": "68c7b42aaa77fa88acf8f17bf226fd070512e06a25e52ed6d68f7a7370317d2c",
+    "hash": "3ae19d8abe5436a5214153807f2772b3fe7286ec43805e16f3a292edb1ae030c",
     "slug": "how-to-use-google-trends-app-360050664913",
     "url": "https://support.optisigns.com/hc/en-us/articles/360050664913-How-to-use-Google-Trends-App",
     "title": "How to use Google Trends App"
