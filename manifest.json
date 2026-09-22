@@ -1,4 +1,10 @@
 {
+  "55640830295187": {
+    "hash": "47ab2f0e4160b75ab25fa1360508aa20f8033f67b4795312583aa509e0ff6e54",
+    "slug": "using-the-japan-transit-app-55640830295187",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App",
+    "title": "Using the Japan Transit App"
+  },
   "55450681344915": {
     "hash": "fbc8d665626f67c2a5d0bcc9d769fbcc2370fbc059a4b0d448e8811d52631001",
     "slug": "connect-sharepoint-news-to-optisigns-digital-signage-55450681344915",
@@ -276,7 +282,7 @@
     "title": "Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync"
   },
   "31695220475283": {
-    "hash": "de319ed949410b6b149569eb4562500c0582dd71e04053108080e06884f5aa19",
+    "hash": "a0ca2acd762c60b6871769062d8de27f9367d66ddb1f9821caeb1bd239f0bd86",
     "slug": "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devic-31695220475283",
     "url": "https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices",
     "title": "Configuring Mass Deployment with Jamf Pro MDM on Apple Devices"
@@ -798,10 +804,10 @@
     "title": "How to approve OptiSigns as Enterprise App on Microsoft Azure (for Power BI, Calendar, etc. access)"
   },
   "4403332894867": {
-    "hash": "970675baaf1328a8bba154e66e8f299c54b2e672ff09894777bcb4361e0b1a16",
-    "slug": "how-to-set-up-audit-log-for-your-account-4403332894867",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-How-to-set-up-Audit-Log-for-your-account",
-    "title": "How to set up Audit Log for your account"
+    "hash": "dbca1d6fbfae9b70c9f98e92d0f69c873a91e1e7bc4ff477e35c744c9a073d9c",
+    "slug": "setting-up-audit-logging-4403332894867",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4403332894867-Setting-Up-Audit-Logging",
+    "title": "Setting Up Audit Logging"
   },
   "4403306341523": {
     "hash": "0a14061c0a565c7ace6ae9edf5957a14b7b7baf21d9104fdc55e69db0332acb2",
@@ -1566,10 +1572,10 @@
     "title": "Tutorial: Create, Update, Add, Remove items from Playlists"
   },
   "4411762539027": {
-    "hash": "652e56b814048b8021e4edd287d8819baab299a60037ce1ee5343d0cb8e46b11",
-    "slug": "multilingual-and-multi-currency-4411762539027",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-multi-currency",
-    "title": "Multilingual and multi-currency"
+    "hash": "ada60dcda2392bba96f4d25bb3f008e556dc6aa0cdb1afa2870d304f4579e7cf",
+    "slug": "multilingual-and-multi-currency-options-4411762539027",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-Multi-Currency-Options",
+    "title": "Multilingual and Multi-Currency Options"
   },
   "1500008112642": {
     "hash": "6038bf1ea36508d77095f804d5275c63728e9b2fa77cd00516265645202fd090",
@@ -1680,7 +1686,7 @@
     "title": "Tutorial: Creating Schedules and Adding Schedule Items Using GraphQL"
   },
   "35577511423635": {
-    "hash": "82db5ae6662b810aa97b9599a0c5534a92fabc067f9ac4e33ebba59028a5ecf8",
+    "hash": "2f71ac75db03994f318b3f48632e13bfd66d0b36ff3aac73cc5ff75769e76c82",
     "slug": "optisigns-pro-player-advanced-features-35577511423635",
     "url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features",
     "title": "OptiSigns Pro Player Advanced Features"
@@ -2274,7 +2280,7 @@
     "title": "How to use the Motivational Quote App"
   },
   "360048660813": {
-    "hash": "18495f896e415cd19d88a3975c31e59ba0bcdd1b0ac88ca845cd3491b7cf5dd9",
+    "hash": "8781df53b1f4523c2887d88933121d82e117397442c9baa6519d3b0d40032ff0",
     "slug": "how-to-use-facebook-live-stream-app-360048660813",
     "url": "https://support.optisigns.com/hc/en-us/articles/360048660813-How-to-use-Facebook-Live-Stream-App",
     "title": "How to use Facebook Live Stream App"
