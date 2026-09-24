@@ -1,4 +1,10 @@
 {
+  "55709616003219": {
+    "hash": "065896aa60762e5f2a1c30c0751d3eb6f6db433f7a1fa20c493952008519c76f",
+    "slug": "using-the-x-social-app-add-on-55709616003219",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On",
+    "title": "Using the X Social App / Add-On"
+  },
   "55669121864979": {
     "hash": "c042fc42dc973f09a38dbe01863caee1180c14f0d649c7696294d2f75fd96039",
     "slug": "using-the-flight-schedule-app-55669121864979",
@@ -30,7 +36,7 @@
     "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast"
   },
   "55416185869331": {
-    "hash": "25865c4e7f5fc7c123e21c271cd28f2fd220660b14dd8ca3e851e0387e290fff",
+    "hash": "d87abc11913eac635705ad251753c4c7d64012c8a396e4d2276c230d44ce2267",
     "slug": "broadcast-send-scheduled-snapshots-of-your-dashboards-55416185869331",
     "url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards",
     "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards"
@@ -534,7 +540,7 @@
     "title": "How to use Secured Dashboard App"
   },
   "19171222981523": {
-    "hash": "de9fa0475dbe564539e39828f15bbd96eafe658e84fc31008baf95dfeeb8e752",
+    "hash": "2240e5eef0cb0957615a0dda59431e78341e73e2161190b27867405e0e4c6412",
     "slug": "how-to-use-the-viva-engage-app-formerly-yammer-on-optisigns-19171222981523",
     "url": "https://support.optisigns.com/hc/en-us/articles/19171222981523-How-to-Use-the-Viva-Engage-app-formerly-Yammer-on-OptiSigns",
     "title": "How to Use the Viva Engage app (formerly Yammer) on OptiSigns"
@@ -1788,7 +1794,7 @@
     "title": "Why Does My Screen Show as \"Offline\" on the Web Portal?"
   },
   "32129032857875": {
-    "hash": "3dbc638841518b53d1840a11ed295f3834e8f5fac5c481d11f481b23bbcb349f",
+    "hash": "6f276300eb861d4e820310b514d3b5108aabd5db706d48350d95a83a1af8b24f",
     "slug": "where-to-buy-optisigns-devices-32129032857875",
     "url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
     "title": "Where to Buy OptiSigns Devices"
