@@ -1,4 +1,10 @@
 {
+  "55719322614803": {
+    "hash": "e52d50ae27307708cf517917f1ed91989cae64b591b7dcd164ddd558effecf3a",
+    "slug": "inbound-webhook-datasources-in-designer-55719322614803",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer",
+    "title": "Inbound Webhook DataSources in Designer"
+  },
   "55709616003219": {
     "hash": "065896aa60762e5f2a1c30c0751d3eb6f6db433f7a1fa20c493952008519c76f",
     "slug": "using-the-x-social-app-add-on-55709616003219",
@@ -2226,7 +2232,7 @@
     "title": "How to use Trello App"
   },
   "360051014713": {
-    "hash": "e7c8f1a45297db6247563d1fc4985022031c26948c1096a4e8b7f366eb7626aa",
+    "hash": "3024abbc42ed73a189e26b3a06a6ccee80156f05cecd8659e3890bb64a3893e6",
     "slug": "how-to-use-youtube-with-optisigns-360051014713",
     "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
     "title": "How to Use YouTube with OptiSigns"
