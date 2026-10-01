@@ -1,4 +1,16 @@
 {
+  "55906396437523": {
+    "hash": "cad0fd92159c275cf1649b2e59f364bcbc918a92efceb8cbae6bbd3be9c61550",
+    "slug": "how-to-use-the-weather-radar-app-55906396437523",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App",
+    "title": "How to Use the Weather Radar App"
+  },
+  "55895814798739": {
+    "hash": "86068fa015ad8009b8287d912e3d13aedfea5804a16a69a99f9b1868999cc37c",
+    "slug": "how-to-display-salesforce-dashboards-and-reports-on-optisign-55895814798739",
+    "url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns",
+    "title": "How to Display Salesforce Dashboards and Reports on OptiSigns"
+  },
   "55719322614803": {
     "hash": "e52d50ae27307708cf517917f1ed91989cae64b591b7dcd164ddd558effecf3a",
     "slug": "inbound-webhook-datasources-in-designer-55719322614803",
@@ -240,7 +252,7 @@
     "title": "Getting Started with an OptiSigns Free Trial"
   },
   "36911639377683": {
-    "hash": "8ff64eb6a51060b584dd43104314e46297c36c62b9bad8e1735762d8d35c443b",
+    "hash": "e4e8af6c7f952e2078c676b471321c755010da218ccd4b32dd68dd209fcffcb8",
     "slug": "how-to-use-optisigns-with-microsoft-teams-rooms-36911639377683",
     "url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms",
     "title": "How to Use OptiSigns with Microsoft Teams Rooms"
@@ -1260,7 +1272,7 @@
     "title": "How to Install an APK file on your Fire TV"
   },
   "360016252654": {
-    "hash": "cec77f1bd7653140e4e2146a8d0c0489a9d93e2250d6be8b918f0fbaadf4b27b",
+    "hash": "f245168cd4b20bdcd277c8153fa60f52155b98ce990f96350ac35ff86f5c62a8",
     "slug": "does-optisigns-offer-non-profit-education-discount-360016252654",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount",
     "title": "Does OptiSigns offer Non-profit/Education discount?"
@@ -1548,7 +1560,7 @@
     "title": "How to tell which Dropbox account that I linked to OptiSigns?"
   },
   "360017964153": {
-    "hash": "3a060951c9deec77211d8dbd5e86b81f1bceec73d933fbbdbc05853f084d91fc",
+    "hash": "bb1b4ae16858cf688d279098186985486539428eaa669edf99c19e7a0aa162ea",
     "slug": "how-to-use-weather-apps-in-optisigns-360017964153",
     "url": "https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns",
     "title": "How to Use Weather Apps in OptiSigns"
@@ -1740,7 +1752,7 @@
     "title": "Amazon Firestick"
   },
   "44650391786131": {
-    "hash": "f5ef7f9b79f3e9af4fb2c40c709c0c0c31c5e5c94862401ee1dde6eddfa0e7da",
+    "hash": "c4c021534493fd23a9904ff70de0aa490276a6ce5a30c87cc14c2f5a48cda0d9",
     "slug": "kiosk-setup-hub-44650391786131",
     "url": "https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub",
     "title": "Kiosk Setup Hub"
@@ -2004,10 +2016,10 @@
     "title": "How to use Notion App"
   },
   "4529298306963": {
-    "hash": "a637d822676348ef8dc3086f9e531406936571d0efcd1b550235872957290db7",
+    "hash": "f2e98cb0e3c7e6ff736fe82e6d143e389fbb0eef7c59a05a3227b58e3682c173",
     "slug": "how-to-use-microsoft-excel-online-with-optisigns-4529298306963",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-use-Microsoft-Excel-Online-with-OptiSigns",
-    "title": "How to use Microsoft Excel Online with OptiSigns"
+    "url": "https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-Use-Microsoft-Excel-Online-with-OptiSigns",
+    "title": "How to Use Microsoft Excel Online with OptiSigns"
   },
   "4417940565139": {
     "hash": "11faebb22c549c2b80a455c48e7adac5a870c8b1980fb62c01403c3a65011d6e",
@@ -2022,16 +2034,16 @@
     "title": "Displaying SharePoint Sites on OptiSigns"
   },
   "4414355658899": {
-    "hash": "fe7f0b23e5586918c8d3870a03140b1d6636a3d548510f9bc29f96b3678c4fd5",
+    "hash": "8b3599fe04522c81d11258efe643fa254d53f12f82f07c8717a6da8dab067b5c",
     "slug": "how-to-use-microsoft-powerpoint-with-optisigns-4414355658899",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414355658899-How-to-Use-Microsoft-PowerPoint-with-OptiSigns",
     "title": "How to Use Microsoft PowerPoint with OptiSigns"
   },
   "4411530012307": {
-    "hash": "e6a1f81127f266ca978db7ed82013c42d52a3d9b989d070f553d26e3cf5d0fa6",
+    "hash": "55b580ebddf6d1cbcdb855ff26699274dcb86001f3372fe85dd83cde46172a22",
     "slug": "how-to-use-microsoft-teams-live-app-with-optisigns-4411530012307",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-use-Microsoft-Teams-Live-app-with-OptiSigns",
-    "title": "How to use Microsoft Teams Live app with OptiSigns"
+    "url": "https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-Use-Microsoft-Teams-Live-app-with-OptiSigns",
+    "title": "How to Use Microsoft Teams Live app with OptiSigns"
   },
   "4410655948563": {
     "hash": "3b849b956547665dfe206e8bd2dde239f31505ad0150692f9a4e08bf3b3e1f62",
@@ -2256,10 +2268,10 @@
     "title": "How to use Dropbox App"
   },
   "360050665253": {
-    "hash": "4ec37ccaa0738be794eb90b2f7b3c08249b2781aa1ed4ef942d8ecc8d053bbe4",
+    "hash": "c22acbc3131111fcfb6e4b2e7b43d203f88cf69e61fe43a8afbd556acf068f3c",
     "slug": "how-to-use-the-onedrive-app-360050665253",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-use-the-OneDrive-App",
-    "title": "How to use the OneDrive App"
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050665253-How-to-Use-the-OneDrive-App",
+    "title": "How to Use the OneDrive App"
   },
   "360050664913": {
     "hash": "3ae19d8abe5436a5214153807f2772b3fe7286ec43805e16f3a292edb1ae030c",
