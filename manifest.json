@@ -299,12 +299,6 @@
     "url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns",
     "title": "How to Set Up a Power BI Service Principal for Use in OptiSigns"
   },
-  "32839794222099": {
-    "hash": "09890517f4583bfea8eee8c4dc6a47892c75a35189b1c0a437719783aec9dec0",
-    "slug": "display-salesforce-dashboards-with-mfa-using-web-scripting-32839794222099",
-    "url": "https://support.optisigns.com/hc/en-us/articles/32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting",
-    "title": "Display Salesforce Dashboards with MFA using Web Scripting"
-  },
   "31960461758611": {
     "hash": "ba7e17ec11c59497d71906c3373ac6275a999e6b018b536b4361fe293c4c0bd1",
     "slug": "how-to-order-a-preconfigured-optisigns-android-stick-31960461758611",
@@ -1878,10 +1872,10 @@
     "title": "Setting Up Your Samsung Smart Signage Platform (SSSP - Commercial Grade)"
   },
   "11032964830227": {
-    "hash": "49bc67b1e820957901bf326602ffd463641a40e72380c74c847fbce6979ce724",
-    "slug": "how-to-use-monday-com-app-11032964830227",
-    "url": "https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-use-Monday-com-App",
-    "title": "How to use Monday.com App"
+    "hash": "a1357549f1c4cdec14f5c4823a8d56cf27075828e1041c5785a43917e853e08d",
+    "slug": "how-to-use-the-monday-com-app-11032964830227",
+    "url": "https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-Use-the-Monday-com-App",
+    "title": "How to Use the Monday.com App"
   },
   "4414558392339": {
     "hash": "e2ecd795a3c8963daafbde43fcafe2623dbf345d9e20f85fa9ddf75e739d6e87",
@@ -1926,7 +1920,7 @@
     "title": "Show/Hide Offline Indicator on your Player"
   },
   "9392587446675": {
-    "hash": "348ef9ab58b02fd00135442720a0654e2d2236bcb26f954c1eb95d8fd2cdc0aa",
+    "hash": "e3699928d02fb682fa52ccdac8b6d1901ea45d14dd6f01b7b2a21662023161b0",
     "slug": "how-to-use-airtable-with-optisigns-9392587446675",
     "url": "https://support.optisigns.com/hc/en-us/articles/9392587446675-How-to-use-Airtable-with-OptiSigns",
     "title": "How to use Airtable with OptiSigns"
@@ -2124,13 +2118,13 @@
     "title": "How to use the Taggbox Display app with OptiSigns"
   },
   "1500005889381": {
-    "hash": "b1213c583307ecfeba7f9b121df0c02320ed491c7af6fa5a345e946f75e220de",
+    "hash": "b96cbc3792a4183a3f73d3784e51cfca573ed904b882d523697da4a1efbee46b",
     "slug": "how-to-use-the-mindmeister-app-1500005889381",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-use-the-MindMeister-App",
-    "title": "How to use the MindMeister App"
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-Use-the-MindMeister-App",
+    "title": "How to Use the MindMeister App"
   },
   "1500005888781": {
-    "hash": "3749724c54267d8579c11e8db86c1f95735c3e7b48b948c6219b717faf2b8546",
+    "hash": "4be0a7f7ce9f31864599e4076fdb5c138f4daa3d4f1fc487db1d010bdcb3689d",
     "slug": "how-to-best-use-canva-with-optisigns-1500005888781",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500005888781-How-to-Best-Use-Canva-with-OptiSigns",
     "title": "How to Best Use Canva with OptiSigns"
