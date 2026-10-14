@@ -1182,10 +1182,10 @@
     "title": "Video codec or video playback issues"
   },
   "360037416494": {
-    "hash": "5053a50b33423b4cddea10481688ba31676ed9966a545cc7f18e66c849b4e282",
-    "slug": "how-to-use-the-jira-formerly-atlassian-jira-app-360037416494",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Jira-formerly-Atlassian-JIRA-app",
-    "title": "How to use the Jira (formerly Atlassian JIRA) app"
+    "hash": "1185168b8deadf5894d78349b80f38cc3357362c8ba8d8c474c1b95ecf43a395",
+    "slug": "how-to-use-the-jira-app-360037416494",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-Use-the-Jira-App",
+    "title": "How to Use the Jira App"
   },
   "360037391854": {
     "hash": "64f9350e9ea791c939edf8f36de7d54984a8c511011ec505dbed730acac9a50f",
@@ -1721,12 +1721,6 @@
     "url": "https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features",
     "title": "OptiSigns Pro Player Advanced Features"
   },
-  "18500083191059": {
-    "hash": "05e60acf233a0c57f8a0dff2c2ac9937abcf6428eb788b21d56534a57b9d0875",
-    "slug": "how-to-add-captions-to-vimeo-videos-18500083191059",
-    "url": "https://support.optisigns.com/hc/en-us/articles/18500083191059-How-to-add-captions-to-Vimeo-videos",
-    "title": "How to add captions to Vimeo videos"
-  },
   "14502378549907": {
     "hash": "a149596e3b8d952fd56df96198748d142c0fb4a9408237838f3acbe797965479",
     "slug": "present-share-your-screen-with-optisigns-aericast-add-on-14502378549907",
@@ -1764,10 +1758,10 @@
     "title": "Update OptiSigns player on OptiSigns Pro Player (Gen 2) via script"
   },
   "12454101966355": {
-    "hash": "c89181cb23ac4a44803ce30cc0c4686f763e853d5acdbdadcd5bd6d507fc241d",
-    "slug": "how-to-use-the-musthavemenus-app-with-optisigns-12454101966355",
-    "url": "https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-use-the-MustHaveMenus-app-with-OptiSigns",
-    "title": "How to use the MustHaveMenus  app with OptiSigns"
+    "hash": "8c82f1d0acd1dcf8b3161e841fc220882a97dadc435d6b8d945f1258860e4fde",
+    "slug": "how-to-use-the-musthavemenus-app-12454101966355",
+    "url": "https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-Use-the-MustHaveMenus-App",
+    "title": "How to Use the MustHaveMenus App"
   },
   "4414558369811": {
     "hash": "c4a3edf8a83d3d5a9eee5ce4141e1e8a84c9598428041e1594085cf3db69fad9",
@@ -1986,10 +1980,10 @@
     "title": "How to Use the CAP Alert App"
   },
   "6091289267475": {
-    "hash": "bb6575145c5dc361c6b3a2ad2aea1bdaff8131b756aa8cdd2103faedffc6c514",
-    "slug": "how-to-use-matterport-app-6091289267475",
-    "url": "https://support.optisigns.com/hc/en-us/articles/6091289267475-How-to-use-Matterport-App",
-    "title": "How to use Matterport App"
+    "hash": "727c4e8c21fbfdc51b49e339ae716ad09480f6f7c38a8a33750dc453a2a8b86a",
+    "slug": "how-to-use-the-matterport-app-6091289267475",
+    "url": "https://support.optisigns.com/hc/en-us/articles/6091289267475-How-to-Use-the-Matterport-App",
+    "title": "How to Use the Matterport App"
   },
   "6086986017299": {
     "hash": "31d98dec1439d8589213a51954f7876197f085fc57407b2f88e40792aa06b732",
@@ -2004,10 +1998,10 @@
     "title": "How to use Advanced Website App"
   },
   "5119724468371": {
-    "hash": "ed5d0e60b6b89749fb110255584caaeabbbeb155f44cf0732de6d5589fb252ca",
-    "slug": "how-to-use-notion-app-5119724468371",
-    "url": "https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-use-Notion-App",
-    "title": "How to use Notion App"
+    "hash": "f1523844d8b9ddb18d8d73957a9e84b3ae75b724633b283a620188860a278cf3",
+    "slug": "how-to-use-the-notion-app-5119724468371",
+    "url": "https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-Use-the-Notion-App",
+    "title": "How to Use the Notion App"
   },
   "4529298306963": {
     "hash": "f2e98cb0e3c7e6ff736fe82e6d143e389fbb0eef7c59a05a3227b58e3682c173",
@@ -2130,10 +2124,10 @@
     "title": "How to Best Use Canva with OptiSigns"
   },
   "1500002233221": {
-    "hash": "b820b73adf70da78681680b374bd19e10cae627014c21c67f6aee962c75cb71e",
-    "slug": "how-to-use-asana-app-1500002233221",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-use-Asana-App",
-    "title": "How to use Asana App"
+    "hash": "261847adc94db7c9fbc9306de8130811cac8d064c7be0a9fbcc5c0a8b97daf1c",
+    "slug": "how-to-use-the-asana-app-1500002233221",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-Use-the-Asana-App",
+    "title": "How to Use the Asana App"
   },
   "1500002131621": {
     "hash": "77d45a434a2518b12c27bc414e061eb07d1a15f4b792311b841226bc4ae44e1b",
@@ -2232,10 +2226,10 @@
     "title": "How to use Instagram Business App"
   },
   "360050244454": {
-    "hash": "88a9f29bc256e1540d1d645ccb3296093388c8702db6db4738489e32b2425274",
-    "slug": "how-to-use-trello-app-360050244454",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-use-Trello-App",
-    "title": "How to use Trello App"
+    "hash": "3e56d1ea0b10ffce71d1eadc5a4ba1d81962db2c50e9a3b4e52afd6df7b74afe",
+    "slug": "how-to-use-the-trello-app-360050244454",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-Use-the-Trello-App",
+    "title": "How to Use the Trello App"
   },
   "360051014713": {
     "hash": "3024abbc42ed73a189e26b3a06a6ccee80156f05cecd8659e3890bb64a3893e6",
@@ -2328,10 +2322,10 @@
     "title": "How to use Google Traffic App"
   },
   "360046859534": {
-    "hash": "68218416a077799ee17aee222c8d86bde301ec08e7d878ada315ff23547b5231",
-    "slug": "how-to-use-twitch-app-360046859534",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-use-Twitch-App",
-    "title": "How to use Twitch App"
+    "hash": "077456bc947a3aa229aa72d5f1104c254b8adefd21c193f106f10d916d4986f8",
+    "slug": "how-to-use-the-twitch-app-360046859534",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-Use-the-Twitch-App",
+    "title": "How to Use the Twitch App"
   },
   "360044619014": {
     "hash": "93c2e8715e5d4fa23f9a1785ed0f93200d8f613375a5608a2cb520c49a127268",
@@ -2478,7 +2472,7 @@
     "title": "How to use Google Calendar with OptiSigns"
   },
   "360016254994": {
-    "hash": "b865e107661cfbbaf9764506c245ace08ab685c6924a68ff3320eab32c391741",
+    "hash": "7fed0a7376730c01f2c5a2c85798b4a77199524717d65212af5e4a8f21ad4c52",
     "slug": "how-to-display-vimeo-videos-with-optisigns-360016254994",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-Display-Vimeo-Videos-with-OptiSigns",
     "title": "How to Display Vimeo Videos with OptiSigns"
