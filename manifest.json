@@ -72,7 +72,7 @@
     "title": "How to Display Databricks Dashboards on OptiSigns"
   },
   "53497007807251": {
-    "hash": "a3f30cb7b0a188a2affe8be9dfb42705c0ae354157084b4e70b749a8247cd993",
+    "hash": "b1d0b8589e6029d940c028a7ea43dc7650fd608b4305d151159e23f6ce3cf5ce",
     "slug": "device-management-and-mass-provisioning-53497007807251",
     "url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning",
     "title": "Device Management and Mass Provisioning"
@@ -1223,12 +1223,6 @@
     "url": "https://support.optisigns.com/hc/en-us/articles/360033693534-PowerPoint-Resolution-Size-for-use-with-Digital-Signage",
     "title": "PowerPoint Resolution, Size for use with Digital Signage"
   },
-  "360026610194": {
-    "hash": "e6ad7703c18c10f10a9f26bbb9e47e62a2722fdb8f970b92804f169f262c7b0e",
-    "slug": "stretch-your-images-document-stretch-vs-fit-vs-zoom-your-con-360026610194",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360026610194-Stretch-your-images-document-Stretch-vs-Fit-vs-Zoom-your-content",
-    "title": "Stretch your images, document - Stretch vs Fit vs Zoom your content"
-  },
   "360026559613": {
     "hash": "859637ba53f6abdc1781b90611bc098f1d1800c72533f017370aa26175e468c6",
     "slug": "how-to-create-a-scrolling-strip-or-bar-360026559613",
@@ -2076,10 +2070,10 @@
     "title": "How to Use the Microsoft Meeting Room App"
   },
   "4406180781203": {
-    "hash": "44ef16e6311933758e4f0b1954429c122947b864cf9a40fd84a89f12f28bd5d3",
-    "slug": "how-to-use-linkedin-app-4406180781203",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4406180781203-How-to-use-LinkedIn-App",
-    "title": "How to use LinkedIn App"
+    "hash": "d1f8a5d5265a5c5e171325280925771191008ff220e9a7901b36c29c414e328c",
+    "slug": "how-to-use-the-linkedin-app-4406180781203",
+    "url": "https://support.optisigns.com/hc/en-us/articles/4406180781203-How-to-Use-the-LinkedIn-App",
+    "title": "How to Use the LinkedIn App"
   },
   "4404053129619": {
     "hash": "3853ae4721dca6531d0df30a262418b6707581940e351bf2222579c5183bdb3e",
@@ -2088,10 +2082,10 @@
     "title": "How to Use the Microsoft Teams Meeting App"
   },
   "4403267825171": {
-    "hash": "ff92638cc88093adfe65050b3ceb4c2c07197dfc1a9e84504fbf3415459fe9b9",
+    "hash": "33e94e6310467b7679fe1ed6aab488c47ab1e4c6a3db872cef618567998500b4",
     "slug": "how-to-use-the-social-mix-app-4403267825171",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-use-the-Social-Mix-App",
-    "title": "How to use the Social Mix App"
+    "url": "https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-Use-the-Social-Mix-App",
+    "title": "How to Use the Social Mix App"
   },
   "1500011611322": {
     "hash": "097f6d568a8510231369eb8500e2c74ef943b73bf79d1786f7ce867de14e7481",
@@ -2106,10 +2100,10 @@
     "title": "How to Use the On This Day App"
   },
   "1500009343862": {
-    "hash": "26184864267661f79285ee9f4ef6a15ff5331be46660d1ce899d3b277b6d64ae",
-    "slug": "how-to-use-the-taggbox-display-app-with-optisigns-1500009343862",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-use-the-Taggbox-Display-app-with-OptiSigns",
-    "title": "How to use the Taggbox Display app with OptiSigns"
+    "hash": "209d2fdd68cadffce4a9638a8536de727e7dcd84ad8e266fc9e4279459f3343b",
+    "slug": "how-to-use-the-taggbox-display-app-1500009343862",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-Use-the-Taggbox-Display-App",
+    "title": "How to Use the Taggbox Display App"
   },
   "1500005889381": {
     "hash": "b96cbc3792a4183a3f73d3784e51cfca573ed904b882d523697da4a1efbee46b",
@@ -2220,10 +2214,10 @@
     "title": "How to use Facebook Recommendations App"
   },
   "360051495193": {
-    "hash": "be71d12b72a35b08fb298c69e8828cf8a352740c16d0516f370e04640cf6afab",
-    "slug": "how-to-use-instagram-business-app-360051495193",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-use-Instagram-Business-App",
-    "title": "How to use Instagram Business App"
+    "hash": "119ab32358df273e42dce5392b47872319362c4514eb21be245423217a6ebe19",
+    "slug": "how-to-use-the-instagram-business-app-360051495193",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-Use-the-Instagram-Business-App",
+    "title": "How to Use the Instagram Business App"
   },
   "360050244454": {
     "hash": "3e56d1ea0b10ffce71d1eadc5a4ba1d81962db2c50e9a3b4e52afd6df7b74afe",
@@ -2238,10 +2232,10 @@
     "title": "How to Use YouTube with OptiSigns"
   },
   "360049875794": {
-    "hash": "b371c242f10a248928318626a4ad49a13ba236be7bd46214ad5b63043052ea90",
-    "slug": "how-to-use-follow-us-app-360049875794",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-use-Follow-Us-App",
-    "title": "How to use Follow Us App"
+    "hash": "1ae23277b89cbe90aadb193d912109ea07160dd2b4bbcd383289153decf37f1d",
+    "slug": "how-to-use-the-follow-us-app-360049875794",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-Use-the-Follow-Us-App",
+    "title": "How to Use the Follow Us App"
   },
   "360049872414": {
     "hash": "cae9d695cef08499b9e24b3d25d96d1c197e8d50250ddfcd0e1c433a0dd49159",
@@ -2370,16 +2364,16 @@
     "title": "How to use World Clock App"
   },
   "360041222994": {
-    "hash": "c62ed6e52c9b02846a27f338bc6c71e26ce760ae1c600ae95396882bd7bb9e2b",
+    "hash": "0544ddbebb2201d3defc7e5a759907b6254822101a92649efbab45e77dc8b7f2",
     "slug": "how-to-use-the-countup-app-360041222994",
     "url": "https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App",
     "title": "How to Use the CountUp App"
   },
   "360041638433": {
-    "hash": "cbfc00d90188485b1b19e4f04efbb1e587ecc035970a92e05b3464f9840c890c",
+    "hash": "51230e45c668c2d71c880dfbc7ae1fceeb8318f35e2c3754a23678bd386e5d33",
     "slug": "how-to-use-the-countdown-app-360041638433",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App",
-    "title": "How to use the CountDown App"
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-Use-the-CountDown-App",
+    "title": "How to Use the CountDown App"
   },
   "360041481553": {
     "hash": "d87817daf63b1f823f4ff99d5c293b06c363c7cec73161d4d79140d9f21fffff",
