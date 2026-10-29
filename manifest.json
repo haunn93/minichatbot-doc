@@ -300,7 +300,7 @@
     "title": "Accepted Payment Methods"
   },
   "33940834613139": {
-    "hash": "f77cf6ff130d416e1de958678b00fe47ef60f8e78d8c1429f3e7d23986b8a282",
+    "hash": "5624ad412e72357932d5bd71371716c28f9a73b68ba8802dfcfec8c900518ed0",
     "slug": "what-do-i-get-with-an-optisigns-free-plan-33940834613139",
     "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
     "title": "What Do I Get With an OptiSigns Free Plan?"
@@ -456,7 +456,7 @@
     "title": "How to Use iCloud Calendar with OptiSigns"
   },
   "27267311796243": {
-    "hash": "49b87e43bb5522275fdc4b4d9366cd434abbb3f361a431e4be7f1e3d40247346",
+    "hash": "82f0f03c46a0772065d3e007cf53e22be25757282b8c811de18d2f3381c1e636",
     "slug": "optistick-27267311796243",
     "url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
     "title": "OptiStick"
@@ -642,10 +642,10 @@
     "title": "Silent Installation process for OptiSigns Player on Windows"
   },
   "15808407287315": {
-    "hash": "cc86e02dc5819bd0e7435676675c5990b9075465e6ce6670e03381f7309fde10",
-    "slug": "the-optisigns-app-keeps-turning-on-the-tv-screen-15808407287315",
-    "url": "https://support.optisigns.com/hc/en-us/articles/15808407287315-The-OptiSigns-app-keeps-turning-on-the-TV-screen",
-    "title": "The OptiSigns app keeps turning on the TV screen"
+    "hash": "cd9c860f6d81f2d53c9b50d5fce65fdee1db50853164f9042322fc6f131a6fc5",
+    "slug": "preventing-the-optisigns-app-from-turning-on-your-screen-15808407287315",
+    "url": "https://support.optisigns.com/hc/en-us/articles/15808407287315-Preventing-the-OptiSigns-App-from-Turning-On-your-Screen",
+    "title": "Preventing the OptiSigns App from Turning On your Screen"
   },
   "15313086319763": {
     "hash": "6137df7eb907dd8196f51c532dbd9d58090ef3e0e916e56482eff23bc01db84c",
@@ -960,10 +960,10 @@
     "title": "Billing: How Do I Change my Subscription Plan?"
   },
   "1500000485202": {
-    "hash": "749ac5341be5c5af14ddbe13b08d962f020a8cd332fbcc430bff25dcdc88306b",
-    "slug": "custom-branding-settings-1500000485202",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings",
-    "title": "Custom Branding Settings"
+    "hash": "a940376e5a453088ceb4f0f3cdeacf798b33e163dcd4dd101bdf2e9e437e85d2",
+    "slug": "custom-branding-settings-and-branded-portals-1500000485202",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings-and-Branded-Portals",
+    "title": "Custom Branding Settings and Branded Portals"
   },
   "1500000480302": {
     "hash": "d702fa882eebed5ffe1c0a44330d7094d9427952d6e393b636c5d1ff6d0468b5",
@@ -1218,7 +1218,7 @@
     "title": "Working with Teams and Security Levels"
   },
   "360034379293": {
-    "hash": "edd85be5ae29342e672c231a31c7f9519d34716b95765ad7f7b094fb00880a97",
+    "hash": "52145b9a9a18ad18d9dae6f0e06ef45c2926442531a088e977918c169d44203f",
     "slug": "windows-360034379293",
     "url": "https://support.optisigns.com/hc/en-us/articles/360034379293-Windows",
     "title": "Windows"
@@ -1368,7 +1368,7 @@
     "title": "How to Use Google Slides with OptiSigns"
   },
   "360041501494": {
-    "hash": "c2a0528792cc37187e29c9eb93ddecfb0a795b26ed21b3db60a99a02859f4d61",
+    "hash": "08069e54b5156763a7eda26c64c578275474a0bb7867a689e2dada2b228a1b63",
     "slug": "macos-360041501494",
     "url": "https://support.optisigns.com/hc/en-us/articles/360041501494-MacOS",
     "title": "MacOS"
@@ -1458,7 +1458,7 @@
     "title": "Show YouTube video's subtitle/closed caption"
   },
   "360034379573": {
-    "hash": "b0442845998196f55a4ccea8125cceb463c6a843161bce2aff3ab982cab577ec",
+    "hash": "e9babaa509217e4fe475e393cfbd0fe0b675471702e6b67f9f3a649c9b7dfe20",
     "slug": "linux-360034379573",
     "url": "https://support.optisigns.com/hc/en-us/articles/360034379573-Linux",
     "title": "Linux"
@@ -1536,7 +1536,7 @@
     "title": "How to Moderate Your Social Media Feeds"
   },
   "1500004699122": {
-    "hash": "dd938ef1c9b559896e913faadb2a2be8e3410b12b669bae73adbb52652ce4c11",
+    "hash": "79da016b069a5817e695f45fef3e25d7a1f96a9cdac453bf195d0aec25752de6",
     "slug": "android-tv-chromecast-1500004699122",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500004699122-Android-TV-ChromeCast",
     "title": "Android TV / ChromeCast"
@@ -1782,7 +1782,7 @@
     "title": "How to replace/update an existing asset (image, video, documents)"
   },
   "1500009042742": {
-    "hash": "4e6c1c1386fee14ee36706aa2ae3449e902a984e179a4706b3cfc3058a1cf821",
+    "hash": "109e18aee2b1716b62b4ec3727155a535f977da93b5ee59a101e8c2c8e44d03b",
     "slug": "fireos-tvs-amazon-insigna-toshiba-tcl-1500009042742",
     "url": "https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL",
     "title": "FireOS TVs (Amazon, Insigna, Toshiba, TCL)"
