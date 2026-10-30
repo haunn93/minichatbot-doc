@@ -1,4 +1,10 @@
 {
+  "56946344474003": {
+    "hash": "62294c74aa45298fee6ed88041d9e99521c3fcfbcb1c1e5318b2fc0ae0fe5078",
+    "slug": "lg-webos-smart-tvs-consumer-grade-56946344474003",
+    "url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade",
+    "title": "LG webOS Smart TVs (Consumer Grade)"
+  },
   "56498391179667": {
     "hash": "de63c679299a5417e8357ba26b5a6dbb6304466ca26f9c06e45e3e165c803f99",
     "slug": "how-to-use-the-eventbrite-events-app-56498391179667",
@@ -1182,10 +1188,10 @@
     "title": "Assign Default Content for Schedules"
   },
   "360039566974": {
-    "hash": "5e3e074116745f64a2b027be1779dcdea8650cc878d6e4c57defda0a11aee359",
-    "slug": "how-to-install-optisigns-as-channel-app-on-roku-360039566974",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku",
-    "title": "How to install OptiSigns as channel/app on Roku"
+    "hash": "9b2962428ae733caa8a1e1e1b7bd7ec71d81dfc926448a38e7ca8e1e0fb31b7c",
+    "slug": "install-optisigns-as-channel-or-app-on-roku-360039566974",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360039566974-Install-OptiSigns-as-Channel-or-App-on-Roku",
+    "title": "Install OptiSigns as Channel or App on Roku"
   },
   "360038992973": {
     "hash": "70cc5150a864d6e7dc1587bd6b31461041241fa1b5a4e401765ded0e56b40673",
@@ -1518,10 +1524,10 @@
     "title": "How to manage Sub-Account billing with OptiSigns"
   },
   "14726570281875": {
-    "hash": "528e864a455173ee78c9a935739f366c6a8c3d637226dcd0067bf9064b914ba3",
-    "slug": "how-to-install-optisigns-on-samsung-tizen-smart-tvs-14726570281875",
-    "url": "https://support.optisigns.com/hc/en-us/articles/14726570281875-How-to-install-OptiSigns-on-Samsung-Tizen-Smart-TVs",
-    "title": "How to install OptiSigns on Samsung Tizen Smart TVs"
+    "hash": "e63725a6acd0a0fecd177d813ecf661dac21069ab1def7fbdc8c3fec74d62bdb",
+    "slug": "installing-optisigns-on-samsung-tizen-smart-tvs-14726570281875",
+    "url": "https://support.optisigns.com/hc/en-us/articles/14726570281875-Installing-OptiSigns-on-Samsung-Tizen-Smart-TVs",
+    "title": "Installing OptiSigns on Samsung Tizen Smart TVs"
   },
   "4414553099667": {
     "hash": "2342e7e539cf6dd3b75fe7ab9fe40c3200acba1922c9fcc1366c10f3be98d17f",
@@ -1620,7 +1626,7 @@
     "title": "How to install OptiSigns Player on Android Boxes"
   },
   "360034379693": {
-    "hash": "047c1aee6ac5c214e8b5a4f4d0982249a0d61067eed498650b933ee848e384ef",
+    "hash": "7f3499a8bdb1872cff97d644fea3b7cdc9be71f8b03773f8df3f745a6b6e11cd",
     "slug": "raspberry-pi-360034379693",
     "url": "https://support.optisigns.com/hc/en-us/articles/360034379693-Raspberry-Pi",
     "title": "Raspberry Pi"
@@ -1662,7 +1668,7 @@
     "title": "How to Create Custom News Feeds with  OptiSync"
   },
   "34087061669523": {
-    "hash": "321183e10751d5d4b3698d27abfc642a4d3fa48059780d53302bf9526ed4e8d8",
+    "hash": "e10d5cfd2057ae3cca6088c709a69ddde7e53fe718d162bd577b510ce11872ae",
     "slug": "amazon-signage-stick-34087061669523",
     "url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
     "title": "Amazon Signage Stick"
@@ -1806,7 +1812,7 @@
     "title": "Why Does My Screen Show as \"Offline\" on the Web Portal?"
   },
   "32129032857875": {
-    "hash": "6f276300eb861d4e820310b514d3b5108aabd5db706d48350d95a83a1af8b24f",
+    "hash": "b6c3180a4ef521a88b300e68abcefd9bf901a463e444f831a76a681043fce1c7",
     "slug": "where-to-buy-optisigns-devices-32129032857875",
     "url": "https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices",
     "title": "Where to Buy OptiSigns Devices"
@@ -1818,7 +1824,7 @@
     "title": "How to use Waitwhile App"
   },
   "5090125683219": {
-    "hash": "1ce09bdac00918db511fd189e06cb1479f243a035c94212562330a6fb8ad40b9",
+    "hash": "69faba936865dee697c4efee6aeb43b245a23fa0606cc316d3ca17b611cbb715",
     "slug": "brightsign-players-5090125683219",
     "url": "https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players",
     "title": "BrightSign Players"
@@ -1866,7 +1872,7 @@
     "title": "Web browser as OptiSigns player"
   },
   "11116333259283": {
-    "hash": "7df7c8160405a30119cddf4e765180bd36ad37b26a962ae5f6070ffdda504848",
+    "hash": "37b3ced23bbc6f59bb1c4fe211e01589cf8690e7b911d8743a1c06fb8a0c1421",
     "slug": "setting-up-your-samsung-smart-signage-platform-sssp-commerci-11116333259283",
     "url": "https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade",
     "title": "Setting Up Your Samsung Smart Signage Platform (SSSP - Commercial Grade)"
@@ -1902,7 +1908,7 @@
     "title": "How to Use the Website Screenshot app"
   },
   "4414496579475": {
-    "hash": "9eb4bc1bdbca55d21bd10d8832f993b4b753fcb409826c905a480acd8e0440e5",
+    "hash": "1ad4a114bd891966571666db2c80231ab33b828febc5d504ae13bddf537b7944",
     "slug": "lg-webos-signage-commercial-grade-4414496579475",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414496579475-LG-WebOS-Signage-Commercial-Grade",
     "title": "LG WebOS Signage (Commercial Grade)"
