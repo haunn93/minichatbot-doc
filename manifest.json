@@ -1,4 +1,10 @@
 {
+  "56987330525587": {
+    "hash": "1f46bd43a49b18eaa72393baa81d3360e83104d473759ccc20390a9b3f16a02f",
+    "slug": "connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-56987330525587",
+    "url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
+    "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector"
+  },
   "56946344474003": {
     "hash": "62294c74aa45298fee6ed88041d9e99521c3fcfbcb1c1e5318b2fc0ae0fe5078",
     "slug": "lg-webos-smart-tvs-consumer-grade-56946344474003",
@@ -666,7 +672,7 @@
     "title": "Cannot find the OptiSigns app on Your Samsung Smart TV"
   },
   "13320135306515": {
-    "hash": "08b74afb562c0a963023066deb70b4a27e422ed4cf93edd480f80bbd223cefee",
+    "hash": "2ffc47e98f71dc67586317bd3b957a52596180a7539615ec6b827f66af35b088",
     "slug": "build-integrations-using-the-optisigns-enterprise-app-13320135306515",
     "url": "https://support.optisigns.com/hc/en-us/articles/13320135306515-Build-Integrations-Using-the-OptiSigns-Enterprise-App",
     "title": "Build Integrations Using the OptiSigns Enterprise App"
@@ -1092,7 +1098,7 @@
     "title": "How to Update Fire TV OS to latest version"
   },
   "360051745633": {
-    "hash": "dd78cb57dcc17742bbe06c9924844ac7d9402b1bc0806fe953699228af1834b2",
+    "hash": "0521e77832e64d2e0ad6baccc571cc23faf500ee4400ac7d593b264308f5dd7e",
     "slug": "how-to-set-up-an-instagram-business-creator-account-360051745633",
     "url": "https://support.optisigns.com/hc/en-us/articles/360051745633-How-to-Set-up-an-Instagram-Business-Creator-account",
     "title": "How to Set up an Instagram Business/Creator account"
@@ -1110,10 +1116,10 @@
     "title": "Edit Screen: What does each option do?"
   },
   "360047275934": {
-    "hash": "9f8e01b5831609c26f66ec58c6f458066ed5584fa9cfdd1215f26cac65ca3ede",
+    "hash": "5612d0892b41744f466291fc046fc08430b888e66593d628942a795fa04b478e",
     "slug": "whitelist-optisigns-ip-addresses-ports-360047275934",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
-    "title": "Whitelist OptiSigns IP addresses & ports"
+    "url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-Addresses-Ports",
+    "title": "Whitelist OptiSigns IP Addresses & Ports"
   },
   "360047232054": {
     "hash": "b0fbe8d2ed0c418ac4b7ddc4231c6766e5a11b9a2bbf2d258dd8053f5a4aa2ec",
@@ -1482,7 +1488,7 @@
     "title": "How can I remotely start/restart OptiSigns app on Fire TV?"
   },
   "360016388733": {
-    "hash": "18f1921a3a84a907e03f1921d5e335bc6e9bdd943110bb1fe01df3600a882900",
+    "hash": "55d7a7e145e0ea050d115ee077bc9d5491e51ae47207ff93403ad07dcb39b8c9",
     "slug": "how-to-use-the-instagram-app-360016388733",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App",
     "title": "How to Use the Instagram App"
@@ -2244,7 +2250,7 @@
     "title": "How to Use the Trello App"
   },
   "360051014713": {
-    "hash": "3024abbc42ed73a189e26b3a06a6ccee80156f05cecd8659e3890bb64a3893e6",
+    "hash": "35b5e955d600775d11a7cfdef6d85efe2b420711958a27ce265b5cda43b72037",
     "slug": "how-to-use-youtube-with-optisigns-360051014713",
     "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
     "title": "How to Use YouTube with OptiSigns"
