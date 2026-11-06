@@ -773,12 +773,6 @@
     "url": "https://support.optisigns.com/hc/en-us/articles/4408946045715-How-to-Integrate-Bonusly-Digital-Signage-with-Optisigns",
     "title": "How to Integrate Bonusly Digital Signage with Optisigns"
   },
-  "4408658251027": {
-    "hash": "fcdf17a5d8313e1d00005d3267086289508bff6dcebb21be6811f92352d73f74",
-    "slug": "how-to-use-remote-command-execution-windows-linux-4408658251027",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux",
-    "title": "How to use Remote Command Execution - Windows/Linux"
-  },
   "4408052029587": {
     "hash": "a187c3d69280293bc69ce8d93572c88f0808d145621c987888de8d5a50e74b6f",
     "slug": "how-to-use-weather-apps-based-on-device-location-4408052029587",
@@ -798,10 +792,10 @@
     "title": "How to set up SAML 2.0 with OptiSigns and OneLogin(Shibboleth)"
   },
   "4407386819731": {
-    "hash": "1bfff767d6921e4efaa4bd1d9503ceb4bb9864b7bd486b4d26124d34e9f79597",
+    "hash": "3f84e938a142e38f458977228ed59af7f7f90930154cc601b12bca319f3b2df8",
     "slug": "how-to-set-up-saml-2-0-with-optisigns-and-onelogin-4407386819731",
-    "url": "https://support.optisigns.com/hc/en-us/articles/4407386819731-How-to-set-up-SAML-2-0-with-OptiSigns-and-OneLogin",
-    "title": "How to set up SAML 2.0 with OptiSigns and OneLogin"
+    "url": "https://support.optisigns.com/hc/en-us/articles/4407386819731-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-OneLogin",
+    "title": "How to Set Up SAML 2.0 with OptiSigns and OneLogin"
   },
   "4407252213395": {
     "hash": "2ea6896d361b653858fe7fca48d21642dbe2bfb712de326a71415ae727057a4c",
@@ -1008,7 +1002,7 @@
     "title": "Advanced: How to Install & Activate OptiSigns Remote Agent on Windows"
   },
   "360055486554": {
-    "hash": "eb4f6ec3b9133861199283bc7ae8891b97e788ea8879ad1ac55cebeb924babe5",
+    "hash": "682b4ab2c64da78adf68d3c8b88980a8b9a3663013048c42101b9369441529a5",
     "slug": "remotely-control-and-command-optisigns-devices-360055486554",
     "url": "https://support.optisigns.com/hc/en-us/articles/360055486554-Remotely-Control-and-Command-OptiSigns-Devices",
     "title": "Remotely Control and Command OptiSigns Devices"
@@ -1116,10 +1110,10 @@
     "title": "Roku Release Notes & Limitation"
   },
   "360041587014": {
-    "hash": "a3dab2d51062f7467fcf88c7a21688117f80a4c5a6002aba35afc1faaf68edd1",
-    "slug": "how-to-change-billing-information-360041587014",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-How-to-change-Billing-information",
-    "title": "How to change Billing information"
+    "hash": "acd7d9b28365f92217c1a62d01150f528c579e26bd97d1ab3e3346184771a555",
+    "slug": "how-to-change-your-billing-information-view-billing-history-360041587014",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts",
+    "title": "How to Change Your Billing Information, View Billing History, and Download Receipts"
   },
   "360041570153": {
     "hash": "95dc8924cc8bae715517d479cd7bbb8e823366c4a1f794eea848383c019728db",
@@ -1140,10 +1134,10 @@
     "title": "Install OptiSigns as Channel or App on Roku"
   },
   "360038992973": {
-    "hash": "70cc5150a864d6e7dc1587bd6b31461041241fa1b5a4e401765ded0e56b40673",
-    "slug": "video-codec-or-video-playback-issues-360038992973",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360038992973-Video-codec-or-video-playback-issues",
-    "title": "Video codec or video playback issues"
+    "hash": "aad447708a37e16d8cd6c36d2f4d566cdb13b16e1819084a33779fded7924309",
+    "slug": "video-codec-or-video-playback-issues-and-how-to-re-encode-vi-360038992973",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360038992973-Video-Codec-or-Video-Playback-Issues-and-How-to-Re-encode-Videos",
+    "title": "Video Codec or Video Playback Issues and How to Re-encode Videos"
   },
   "360037416494": {
     "hash": "1185168b8deadf5894d78349b80f38cc3357362c8ba8d8c474c1b95ecf43a395",
@@ -1294,12 +1288,6 @@
     "slug": "generate-manage-an-optisigns-api-key-4414563797139",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414563797139-Generate-Manage-an-OptiSigns-API-Key",
     "title": "Generate & Manage an OptiSigns API Key"
-  },
-  "360054557434": {
-    "hash": "58090c15c0852eb78e2fa349489f9208964f64133c9e728a46be23feb97a0588",
-    "slug": "view-billing-history-and-download-receipts-360054557434",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360054557434-View-Billing-History-and-Download-Receipts",
-    "title": "View Billing History and Download Receipts"
   },
   "360050855313": {
     "hash": "25ce33224b2c8b4f121670562ea195977984a3f9b550bf67c24a5b1b50b7c24e",
@@ -1529,12 +1517,6 @@
     "url": "https://support.optisigns.com/hc/en-us/articles/27070013297427-Display-Device-Info-Onscreen",
     "title": "Display Device Info Onscreen"
   },
-  "14557706459283": {
-    "hash": "c297338e906689748781b1d9e3ca131e0ff151993913aebdb761d2715df0afd4",
-    "slug": "present-share-ios-android-phone-tablet-to-your-screen-with-o-14557706459283",
-    "url": "https://support.optisigns.com/hc/en-us/articles/14557706459283-Present-share-iOS-Android-phone-tablet-to-your-screen-with-OptiSigns-AeriCast-Add-on",
-    "title": "Present/ share iOS/ Android phone/ tablet to your screen with OptiSigns & AeriCast Add-on"
-  },
   "4414558295955": {
     "hash": "c05fc04fda2947e730d607719f4ccc16b58b418467b48b90b7b9008ec3cc3e32",
     "slug": "tutorial-create-update-add-remove-items-from-playlists-4414558295955",
@@ -1656,10 +1638,10 @@
     "title": "OptiSigns Pro Player Advanced Features"
   },
   "14502378549907": {
-    "hash": "a149596e3b8d952fd56df96198748d142c0fb4a9408237838f3acbe797965479",
-    "slug": "present-share-your-screen-with-optisigns-aericast-add-on-14502378549907",
-    "url": "https://support.optisigns.com/hc/en-us/articles/14502378549907-Present-share-your-screen-with-OptiSigns-AeriCast-Add-on",
-    "title": "Present / share your screen with OptiSigns & AeriCast Add-on"
+    "hash": "4924312ddc9bd52ebc7ef600dd32d197b4132fbe1382d6a52865710583d6d6eb",
+    "slug": "present-or-share-your-screen-with-optisigns-and-the-aericast-14502378549907",
+    "url": "https://support.optisigns.com/hc/en-us/articles/14502378549907-Present-or-Share-Your-Screen-with-OptiSigns-and-the-AeriCast-Add-on",
+    "title": "Present or Share Your Screen with OptiSigns and the AeriCast Add-on"
   },
   "4404608957075": {
     "hash": "3d3fb1e1aede4bd482c2b66a9075051a5f53e973e3969613716ad86f405efa7b",
@@ -1818,10 +1800,10 @@
     "title": "How to export high resolution canvas, template designs"
   },
   "12498801963027": {
-    "hash": "46d408e8be056f59d2de6b241c9d56398079682a31896a48302762d24e0943a5",
+    "hash": "d65fabe9ffaeb9ed437428077c091b2eda422f80ac756134b330897f43eb7a76",
     "slug": "show-offline-indicator-feature-12498801963027",
-    "url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
-    "title": "Show Offline Indicator feature"
+    "url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-Feature",
+    "title": "Show Offline Indicator Feature"
   },
   "10259143299219": {
     "hash": "a4401aeb628aa50fda8136c9cabbf1f3b7f87fe0d0b0e575f6a4aa2ab899eb1c",
@@ -1840,12 +1822,6 @@
     "slug": "is-there-storage-limit-for-my-account-360016253694",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016253694-Is-there-storage-limit-for-my-account",
     "title": "Is there storage limit for my account?"
-  },
-  "12947820509971": {
-    "hash": "7c1142dd5d83e1da5584971be920b11e12cb7216b55cb1bbe13a0cae9dc98de4",
-    "slug": "show-hide-offline-indicator-on-your-player-12947820509971",
-    "url": "https://support.optisigns.com/hc/en-us/articles/12947820509971-Show-Hide-Offline-Indicator-on-your-Player",
-    "title": "Show/Hide Offline Indicator on your Player"
   },
   "9392587446675": {
     "hash": "e3699928d02fb682fa52ccdac8b6d1901ea45d14dd6f01b7b2a21662023161b0",
@@ -1890,16 +1866,10 @@
     "title": "How to use the Video Stream app"
   },
   "8098889840531": {
-    "hash": "d601d42e1f8069faebcd2b8d6650091bb343c8d3da1ceecd1ac46d9d4918fe40",
+    "hash": "995c2960d6e6f27858152f523de547f6b02056e427c6fa2c9dcf47b8ba1eff08",
     "slug": "how-to-use-rtsp-streams-on-optisigns-devices-8098889840531",
-    "url": "https://support.optisigns.com/hc/en-us/articles/8098889840531-How-to-use-RTSP-Streams-on-OptiSigns-Devices",
-    "title": "How to use RTSP Streams on OptiSigns Devices"
-  },
-  "8066591235603": {
-    "hash": "74ace87b9c4d41285eaa30daee1d097006e9ad274f95930e8412b6395547cd06",
-    "slug": "how-to-use-rtsp-stream-on-windows-or-raspberry-pi-via-optisi-8066591235603",
-    "url": "https://support.optisigns.com/hc/en-us/articles/8066591235603-How-to-use-RTSP-Stream-on-Windows-or-Raspberry-Pi-via-OptiSigns",
-    "title": "How to use RTSP Stream on Windows or Raspberry Pi via OptiSigns "
+    "url": "https://support.optisigns.com/hc/en-us/articles/8098889840531-How-to-Use-RTSP-Streams-on-OptiSigns-Devices",
+    "title": "How to Use RTSP Streams on OptiSigns Devices"
   },
   "6757989639827": {
     "hash": "2957994b350c5fcc4d91817750ebf891b9cc658c5f8ad26e8e2275581a121d5c",
@@ -2136,10 +2106,10 @@
     "title": "How to Use the Flash Message App"
   },
   "360052513253": {
-    "hash": "7a1a31ac27eb0874d3e1b079bbc668ee721075f1d16d35567306f74695bbd777",
-    "slug": "how-to-use-emergency-message-alert-app-360052513253",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360052513253-How-to-use-Emergency-Message-Alert-App",
-    "title": "How to use Emergency Message/Alert App"
+    "hash": "0dfb47d8237fde62a4878721796817dc1ea31ae35302b50c10d30fdbc31bb141",
+    "slug": "how-to-use-the-emergency-message-alert-app-360052513253",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360052513253-How-to-Use-the-Emergency-Message-Alert-App",
+    "title": "How to Use the Emergency Message/Alert App"
   },
   "360052088413": {
     "hash": "185e5eb0c898166800e60afcad49aa96fb4e48c6745ba35bf0b4da5a64849159",
