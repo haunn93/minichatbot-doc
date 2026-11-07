@@ -1097,12 +1097,6 @@
     "url": "https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
     "title": "How to set an asset to Live or Expire at specific time"
   },
-  "360042143753": {
-    "hash": "477bb4c505dbca48718a5d0f3a3e12d6a5a262099e5ff944986533cf063e25ae",
-    "slug": "how-to-re-encode-video-files-for-better-compatibility-on-you-360042143753",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices",
-    "title": "How to re-encode video files for better compatibility on your devices"
-  },
   "360042143333": {
     "hash": "f2798723a65cfb086e27dce38d459113db709cd366a095fd8378b51be16f89d2",
     "slug": "roku-release-notes-limitation-360042143333",
@@ -1116,10 +1110,10 @@
     "title": "How to Change Your Billing Information, View Billing History, and Download Receipts"
   },
   "360041570153": {
-    "hash": "95dc8924cc8bae715517d479cd7bbb8e823366c4a1f794eea848383c019728db",
-    "slug": "my-image-content-are-bleeding-off-the-screens-with-windows-l-360041570153",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360041570153-My-image-content-are-bleeding-off-the-screens-with-Windows-Linux-Mac-Raspberry-Pi-app-need-screen-calibration",
-    "title": "My image, content are bleeding off the screens with Windows, Linux, Mac, Raspberry Pi app (need screen calibration)"
+    "hash": "d1bc04d404681e8436f9ade9f8e12e5de624ef1338b91685525a8d1936dcab36",
+    "slug": "screen-calibration-fix-content-bleeding-off-the-screen-360041570153",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041570153-Screen-Calibration-Fix-Content-Bleeding-off-the-Screen",
+    "title": "Screen Calibration: Fix Content Bleeding off the Screen"
   },
   "360040943374": {
     "hash": "d8b63377bf437b952016d84ff0c8b83483b2fab8228183bc53f51c29c80a940c",
@@ -1260,10 +1254,10 @@
     "title": "How to Manage and Edit Your Playlist Settings"
   },
   "28026588373139": {
-    "hash": "fc3cdc6cd7ffcf1265f43be4039b962f12ae018445f902190486ca1786934e9f",
-    "slug": "how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-28026588373139",
-    "url": "https://support.optisigns.com/hc/en-us/articles/28026588373139-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device-Gen-3",
-    "title": "How to Fix The Scaling Issue on OptiSigns Android Device Gen 3"
+    "hash": "5dbae450854608db30361af2e35f48274c91461af36c62fef632d5e2296561dd",
+    "slug": "how-to-fix-the-scaling-issue-on-optisigns-android-devices-28026588373139",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28026588373139-How-to-Fix-the-Scaling-Issue-on-OptiSigns-Android-Devices",
+    "title": "How to Fix the Scaling Issue on OptiSigns Android Devices"
   },
   "25607930101907": {
     "hash": "ae125b85953d522e1a352e600f8ab72a6d770a04cdbdff9064e02aad15461221",
@@ -1426,12 +1420,6 @@
     "slug": "how-to-display-dynamic-event-schedules-using-optisync-33468569218067",
     "url": "https://support.optisigns.com/hc/en-us/articles/33468569218067-How-to-Display-Dynamic-Event-Schedules-Using-OptiSync",
     "title": "How to Display Dynamic Event Schedules Using OptiSync"
-  },
-  "27607906766483": {
-    "hash": "beb38c0b69f3e86527ccdb80d2decd21c60433cfbb2d4c87da940c0e6fd01043",
-    "slug": "how-to-fix-the-scaling-issue-on-optisigns-android-device-27607906766483",
-    "url": "https://support.optisigns.com/hc/en-us/articles/27607906766483-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device",
-    "title": "How to Fix The Scaling Issue on OptiSigns Android Device"
   },
   "17129313173395": {
     "hash": "90cfaffbe2bc6e6faf4d0bd36f1c3284010c2dcc0b048e76df562d9bb8e3b34d",
