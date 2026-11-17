@@ -498,7 +498,7 @@
     "title": "How to use Check-in app with SMS follow up"
   },
   "23565267463315": {
-    "hash": "6060fff8df4bd40a3c3c0b646e8eef084cdf0c0da17bb9f275efd4181a8f8bce",
+    "hash": "97f262272e8d2e7aeed3c2413a65817aa818b58685736b9ffe3f450eca8f681a",
     "slug": "engage-plan-faqs-23565267463315",
     "url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
     "title": "Engage Plan - FAQs"
@@ -942,10 +942,10 @@
     "title": "How to Use the YouTube Playlist App with OptiSigns"
   },
   "1500000493782": {
-    "hash": "22aa5c51a76c027e487bce30498893f9747c265c3973d054b28c359331852157",
-    "slug": "billing-how-do-i-change-my-subscription-plan-1500000493782",
-    "url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-How-Do-I-Change-my-Subscription-Plan",
-    "title": "Billing: How Do I Change my Subscription Plan?"
+    "hash": "55398951d9c10f4e9aba8a9cc10d5ba85a7d477062792f50e1b696e74c47783c",
+    "slug": "billing-changing-plans-or-screen-counts-1500000493782",
+    "url": "https://support.optisigns.com/hc/en-us/articles/1500000493782-Billing-Changing-Plans-or-Screen-Counts",
+    "title": "Billing: Changing Plans or Screen Counts"
   },
   "1500000485202": {
     "hash": "a940376e5a453088ceb4f0f3cdeacf798b33e163dcd4dd101bdf2e9e437e85d2",
@@ -1104,10 +1104,10 @@
     "title": "Roku Release Notes & Limitation"
   },
   "360041587014": {
-    "hash": "acd7d9b28365f92217c1a62d01150f528c579e26bd97d1ab3e3346184771a555",
-    "slug": "how-to-change-your-billing-information-view-billing-history-360041587014",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-How-to-Change-Your-Billing-Information-View-Billing-History-and-Download-Receipts",
-    "title": "How to Change Your Billing Information, View Billing History, and Download Receipts"
+    "hash": "4a0df764b340cebda5773136d9437cdbaf8f3e67b612bfd86684d4cf8bbcd942",
+    "slug": "billing-details-failed-payments-receipts-360041587014",
+    "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
+    "title": "Billing Details, Failed Payments & Receipts"
   },
   "360041570153": {
     "hash": "d1bc04d404681e8436f9ade9f8e12e5de624ef1338b91685525a8d1936dcab36",
@@ -1350,10 +1350,10 @@
     "title": "I received the OptiSigns device but it's OnHold and cannot assign content"
   },
   "17639078588691": {
-    "hash": "63d09e4e48b8455b3baf461274cd42f024597fd126d50187752cc2b98b34c81a",
-    "slug": "how-to-cancel-subscription-or-pause-subscription-for-seasona-17639078588691",
-    "url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-How-to-cancel-subscription-or-pause-subscription-for-Seasonal-Use-Case",
-    "title": "How to cancel subscription or pause subscription for Seasonal Use Case"
+    "hash": "b238afd93fedae64d1293d69a51c0668acc13e9b4a508f703500ef23fd8240c3",
+    "slug": "cancel-pause-or-downgrade-your-subscription-17639078588691",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription",
+    "title": "Cancel, Pause or Downgrade Your Subscription"
   },
   "6636047009427": {
     "hash": "0b559d44ad53a609b272f6c8ec0f49d2734365eca6dc9b16ea18b9008bd015d4",
@@ -1396,12 +1396,6 @@
     "slug": "how-to-use-the-instagram-app-360016388733",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-Use-the-Instagram-App",
     "title": "How to Use the Instagram App"
-  },
-  "360016219114": {
-    "hash": "5c1432d625887d60c7b12aade6111d944ea5f0fd5f161012a0f1f4de0bdb1310",
-    "slug": "what-if-i-want-to-increase-decrease-number-of-screens-during-360016219114",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360016219114-What-if-I-want-to-increase-decrease-number-of-screens-during-the-month",
-    "title": "What if I want to increase, decrease number of screens during the month?"
   },
   "44652521310099": {
     "hash": "7e65ff0cb377c2495c29a5659e833bfec71f5c3a1b942f9777d6d2c43511e8d0",
@@ -1732,12 +1726,6 @@
     "slug": "how-can-i-improve-stability-of-fire-tv-as-digital-signage-pl-360016484393",
     "url": "https://support.optisigns.com/hc/en-us/articles/360016484393-How-can-I-improve-stability-of-Fire-TV-as-Digital-Signage-player",
     "title": "How can I improve stability of Fire TV as Digital Signage player?"
-  },
-  "360016375793": {
-    "hash": "e730ed8ff47b3af3c4ed23bedd41fb1786b054eab82875f4d1d9bae2ea3c0acf",
-    "slug": "can-i-have-my-invoices-receipts-sent-to-a-different-email-ad-360016375793",
-    "url": "https://support.optisigns.com/hc/en-us/articles/360016375793-Can-I-have-my-invoices-receipts-sent-to-a-different-email-address",
-    "title": "Can I have my invoices, receipts sent to a different email address?"
   },
   "36558469962643": {
     "hash": "0a33e549f3e604da5aa79ca1dba026fdc6e174244e16398a6e9fec80fcff1f3f",
