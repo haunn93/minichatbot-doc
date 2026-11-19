@@ -1,4 +1,10 @@
 {
+  "57688527779219": {
+    "hash": "bb108ce3d4d217fa73973b36c1a71a5a983692cc04ec093afc2cda4f0d689503",
+    "slug": "ai-tools-in-optisigns-optibot-ai-designer-optidev-and-the-ai-57688527779219",
+    "url": "https://support.optisigns.com/hc/en-us/articles/57688527779219-AI-Tools-in-OptiSigns-OptiBot-AI-Designer-OptiDev-and-the-AI-Connector",
+    "title": "AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector"
+  },
   "57645638683411": {
     "hash": "23d83ca972c55f9c9ad6d45a977f71cf48f61062c4ec293c9f484d59591e0e8c",
     "slug": "the-new-designer-complete-feature-guide-57645638683411",
@@ -6,7 +12,7 @@
     "title": "The New Designer: Complete Feature Guide"
   },
   "56987330525587": {
-    "hash": "1f46bd43a49b18eaa72393baa81d3360e83104d473759ccc20390a9b3f16a02f",
+    "hash": "442f51856f4f1b8da53ff4255f7dc49ff5954ce3c94f2d2cdb9ecfef51d47e24",
     "slug": "connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-56987330525587",
     "url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector",
     "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector"
@@ -90,7 +96,7 @@
     "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards"
   },
   "54095075680275": {
-    "hash": "0813a3374b05559e451941a9027fe9600c7924b5df9ba1032bdd2e73bdb93ee4",
+    "hash": "ebfbbb60e4805605c308db13b7a0f78646c2c17de758392a19d95be9426266ae",
     "slug": "optidev-add-on-free-trial-and-pricing-54095075680275",
     "url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing",
     "title": "OptiDev Add-on - Free Trial and Pricing"
@@ -306,10 +312,10 @@
     "title": "How to Install a Root Certificate and Display an Internal Website on Screens"
   },
   "34379983350163": {
-    "hash": "9d7d5ea22b2031170c40592246639c39881f14bec39afe5324f81d5f8be6d265",
-    "slug": "accepted-payment-methods-34379983350163",
-    "url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods",
-    "title": "Accepted Payment Methods"
+    "hash": "6ee8b94de7c2afc2b2fe86d742302cd44ca19d2f5254f391bf1853ae8c07e1ec",
+    "slug": "accepted-payment-methods-and-currencies-34379983350163",
+    "url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods-and-Currencies",
+    "title": "Accepted Payment Methods and Currencies"
   },
   "33940834613139": {
     "hash": "5624ad412e72357932d5bd71371716c28f9a73b68ba8802dfcfec8c900518ed0",
@@ -1110,7 +1116,7 @@
     "title": "Roku Release Notes & Limitation"
   },
   "360041587014": {
-    "hash": "4a0df764b340cebda5773136d9437cdbaf8f3e67b612bfd86684d4cf8bbcd942",
+    "hash": "59aa1e3fda1acf3a91e49a6828f1eeef06537264e1e330a544fcf4b9fc97130f",
     "slug": "billing-details-failed-payments-receipts-360041587014",
     "url": "https://support.optisigns.com/hc/en-us/articles/360041587014-Billing-Details-Failed-Payments-Receipts",
     "title": "Billing Details, Failed Payments & Receipts"
@@ -1140,7 +1146,7 @@
     "title": "Video Codec or Video Playback Issues and How to Re-encode Videos"
   },
   "360037416494": {
-    "hash": "1185168b8deadf5894d78349b80f38cc3357362c8ba8d8c474c1b95ecf43a395",
+    "hash": "f8e862ad5e486c29cbf517e439b840f126400f79ac499ad6294554114789d47d",
     "slug": "how-to-use-the-jira-app-360037416494",
     "url": "https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-Use-the-Jira-App",
     "title": "How to Use the Jira App"
@@ -1878,10 +1884,10 @@
     "title": "How to use OptiSigns Screen Capture app"
   },
   "5149077938835": {
-    "hash": "58d4f36275175276b2722e593850f031605ea38130b2c968858e9c20e3d63bb5",
-    "slug": "how-to-use-advanced-website-app-5149077938835",
-    "url": "https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-use-Advanced-Website-App",
-    "title": "How to use Advanced Website App"
+    "hash": "896cefcfca0169b1da5027cc9e2ce76d983826fe655ac95bedd686d2aa23f7bb",
+    "slug": "how-to-use-the-advanced-website-app-5149077938835",
+    "url": "https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-Use-the-Advanced-Website-App",
+    "title": "How to Use the Advanced Website App"
   },
   "5119724468371": {
     "hash": "f1523844d8b9ddb18d8d73957a9e84b3ae75b724633b283a620188860a278cf3",
@@ -1902,7 +1908,7 @@
     "title": "How to Display Microsoft Teams Chat on OptiSigns"
   },
   "4414539282067": {
-    "hash": "44559e29abe1d677dcb993b08ef28bab25964bb159270692ab5ff0eba5c65c2a",
+    "hash": "f6e6476bbe4478bc22c66b4f70041ab38c2799cfb0de0a770e67c01e844b0054",
     "slug": "displaying-sharepoint-sites-on-optisigns-4414539282067",
     "url": "https://support.optisigns.com/hc/en-us/articles/4414539282067-Displaying-SharePoint-Sites-on-OptiSigns",
     "title": "Displaying SharePoint Sites on OptiSigns"
