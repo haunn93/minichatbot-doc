@@ -1,4 +1,10 @@
 {
+  "57730354923923": {
+    "hash": "1cd853dd1dcb135f917bc89a876cd8ef49c38ce9b9e1ddd87bc545e58a984fce",
+    "slug": "billing-purchase-orders-invoices-and-tax-exemption-57730354923923",
+    "url": "https://support.optisigns.com/hc/en-us/articles/57730354923923-Billing-Purchase-Orders-Invoices-and-Tax-Exemption",
+    "title": "Billing: Purchase Orders, Invoices and Tax Exemption"
+  },
   "57688527779219": {
     "hash": "bb108ce3d4d217fa73973b36c1a71a5a983692cc04ec093afc2cda4f0d689503",
     "slug": "ai-tools-in-optisigns-optibot-ai-designer-optidev-and-the-ai-57688527779219",
@@ -48,7 +54,7 @@
     "title": "How to Display Salesforce Dashboards and Reports on OptiSigns"
   },
   "55719322614803": {
-    "hash": "e52d50ae27307708cf517917f1ed91989cae64b591b7dcd164ddd558effecf3a",
+    "hash": "45e073fe326f520faee4bc6d4179271957f93e27f3123b26af69b42f1bb7ef7f",
     "slug": "inbound-webhook-datasources-in-designer-55719322614803",
     "url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer",
     "title": "Inbound Webhook DataSources in Designer"
@@ -282,7 +288,7 @@
     "title": "Tagging in OptiSigns"
   },
   "37966066335891": {
-    "hash": "5b18b543d159f6ef9986c8953c94a99b1656df3e671bdfba2f3e82a8e1e025ae",
+    "hash": "ecd6bbd88b67ec1a6a5a4bbc4012f01e62dbca7cba77b92852fea9153ba41b02",
     "slug": "getting-started-with-an-optisigns-free-trial-37966066335891",
     "url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial",
     "title": "Getting Started with an OptiSigns Free Trial"
@@ -299,12 +305,6 @@
     "url": "https://support.optisigns.com/hc/en-us/articles/36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player",
     "title": "How to access the Troubleshooting page of the OptiSigns Player"
   },
-  "35749502945555": {
-    "hash": "2a70736855bd4f390fe07b142c15815974f7e270a59bb24ff0eab58aed572e3d",
-    "slug": "how-to-using-sepa-and-ideal-for-eur-currency-subscription-pa-35749502945555",
-    "url": "https://support.optisigns.com/hc/en-us/articles/35749502945555-How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments",
-    "title": "How to Using SEPA and iDEAL for EUR Currency Subscription Payments"
-  },
   "35184720136595": {
     "hash": "ad2545e39e235cf07641d1ccbd33be6b634b765a7d83403cec821e0eb071a733",
     "slug": "how-to-install-a-root-certificate-and-display-an-internal-we-35184720136595",
@@ -318,7 +318,7 @@
     "title": "Accepted Payment Methods and Currencies"
   },
   "33940834613139": {
-    "hash": "5624ad412e72357932d5bd71371716c28f9a73b68ba8802dfcfec8c900518ed0",
+    "hash": "af311b65ff935a65f6793d532db92a92095544c920c586bd7df5dbad90d2057b",
     "slug": "what-do-i-get-with-an-optisigns-free-plan-33940834613139",
     "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan",
     "title": "What Do I Get With an OptiSigns Free Plan?"
@@ -1362,7 +1362,7 @@
     "title": "I received the OptiSigns device but it's OnHold and cannot assign content"
   },
   "17639078588691": {
-    "hash": "b238afd93fedae64d1293d69a51c0668acc13e9b4a508f703500ef23fd8240c3",
+    "hash": "e9f13d1265571f930a64fa3e01dab389234442df531c2ecda38fe3c17e8a0984",
     "slug": "cancel-pause-or-downgrade-your-subscription-17639078588691",
     "url": "https://support.optisigns.com/hc/en-us/articles/17639078588691-Cancel-Pause-or-Downgrade-Your-Subscription",
     "title": "Cancel, Pause or Downgrade Your Subscription"
@@ -1428,10 +1428,10 @@
     "title": "How to Display Dynamic Event Schedules Using OptiSync"
   },
   "17129313173395": {
-    "hash": "90cfaffbe2bc6e6faf4d0bd36f1c3284010c2dcc0b048e76df562d9bb8e3b34d",
-    "slug": "how-to-manage-sub-account-billing-with-optisigns-17129313173395",
-    "url": "https://support.optisigns.com/hc/en-us/articles/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns",
-    "title": "How to manage Sub-Account billing with OptiSigns"
+    "hash": "b000f9bb8095373803c84cf1da1de0cd6a00dfbd9f9d45bbb78af610a9965ed4",
+    "slug": "billing-for-multiple-locations-sub-accounts-and-team-billing-17129313173395",
+    "url": "https://support.optisigns.com/hc/en-us/articles/17129313173395-Billing-for-Multiple-Locations-Sub-Accounts-and-Team-Billing",
+    "title": "Billing for Multiple Locations: Sub-Accounts and Team Billing"
   },
   "14726570281875": {
     "hash": "e63725a6acd0a0fecd177d813ecf661dac21069ab1def7fbdc8c3fec74d62bdb",
@@ -1572,10 +1572,10 @@
     "title": "How to Create Custom News Feeds with  OptiSync"
   },
   "34087061669523": {
-    "hash": "e10d5cfd2057ae3cca6088c709a69ddde7e53fe718d162bd577b510ce11872ae",
-    "slug": "amazon-signage-stick-34087061669523",
-    "url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick",
-    "title": "Amazon Signage Stick"
+    "hash": "068a3adc8c16200e911d8511a189516388fafae59a9a2707f464b8690c4f287f",
+    "slug": "amazon-signage-devices-signage-sticks-and-signage-displays-34087061669523",
+    "url": "https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Devices-Signage-Sticks-and-Signage-Displays",
+    "title": "Amazon Signage Devices: Signage Sticks and Signage Displays"
   },
   "14502723487379": {
     "hash": "0beb5d3d64c31365a899875be1aab2e21d34dd74c20a1d14df2309440fc2d147",
@@ -1638,7 +1638,7 @@
     "title": "Present or Share Your Screen with OptiSigns and the AeriCast Add-on"
   },
   "4404608957075": {
-    "hash": "3d3fb1e1aede4bd482c2b66a9075051a5f53e973e3969613716ad86f405efa7b",
+    "hash": "a599729f17c01dae72c2ce340ea010aa0686044616c3f917724b5a0a9c8fbb61",
     "slug": "how-to-delete-your-account-from-optisigns-4404608957075",
     "url": "https://support.optisigns.com/hc/en-us/articles/4404608957075-How-to-Delete-Your-Account-from-OptiSigns",
     "title": "How to Delete Your Account from OptiSigns"
